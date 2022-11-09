@@ -1,0 +1,687 @@
+2022-06-03 09:04:36,713 - INFO - migrations : DB migration service
+2022-06-03 09:04:36,714 - INFO - migrations : Loading configuration from file
+2022-06-03 09:04:36,720 - INFO - migrations : DONE
+2022-06-03 09:04:36,769 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:04:36,771 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:04:36,824 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 09:04:36,861 - INFO - migrations : None
+2022-06-03 09:04:36,867 - INFO - migrations : OK
+2022-06-03 09:04:36,876 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 09:04:36,938 - INFO - migrations : None
+2022-06-03 09:04:36,943 - INFO - migrations : OK
+2022-06-03 09:04:36,950 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 09:04:37,017 - INFO - migrations : None
+2022-06-03 09:04:37,022 - INFO - migrations : OK
+2022-06-03 09:04:37,031 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 09:04:37,083 - INFO - migrations : None
+2022-06-03 09:04:37,088 - INFO - migrations : OK
+2022-06-03 09:04:37,096 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 09:04:37,153 - INFO - migrations : None
+2022-06-03 09:04:37,159 - INFO - migrations : OK
+2022-06-03 09:04:37,173 - INFO - migrations : Trigger created
+2022-06-03 09:04:37,184 - INFO - migrations : Trigger created
+2022-06-03 09:04:37,197 - INFO - migrations : Trigger created
+2022-06-03 09:04:37,207 - INFO - migrations : Trigger created
+2022-06-03 09:04:42,212 - INFO - migrations : DB migration service
+2022-06-03 09:04:42,212 - INFO - migrations : Loading configuration from file
+2022-06-03 09:04:42,213 - INFO - migrations : DONE
+2022-06-03 09:04:42,250 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:04:42,252 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:04:42,261 - INFO - migrations : Migrations table exists
+2022-06-03 09:04:42,272 - INFO - migrations : No migrations to execute
+2022-06-03 09:04:42,280 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:04:42,283 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:04:42,287 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:04:42,291 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:06:48,678 - INFO - migrations : DB migration service
+2022-06-03 09:06:48,678 - INFO - migrations : Loading configuration from file
+2022-06-03 09:06:48,680 - INFO - migrations : DONE
+2022-06-03 09:06:48,723 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:06:48,724 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:06:48,728 - INFO - migrations : Migrations table exists
+2022-06-03 09:06:48,734 - INFO - migrations : No migrations to execute
+2022-06-03 09:06:48,742 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:06:48,747 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:06:48,750 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:06:48,753 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:08:14,211 - INFO - migrations : DB migration service
+2022-06-03 09:08:14,211 - INFO - migrations : Loading configuration from file
+2022-06-03 09:08:14,212 - INFO - migrations : DONE
+2022-06-03 09:08:14,251 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:08:14,253 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:08:14,256 - INFO - migrations : Migrations table exists
+2022-06-03 09:08:14,260 - INFO - migrations : No migrations to execute
+2022-06-03 09:08:14,265 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:08:14,268 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:08:14,271 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:08:14,274 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:17:05,166 - INFO - migrations : DB migration service
+2022-06-03 09:17:05,167 - INFO - migrations : Loading configuration from file
+2022-06-03 09:17:05,168 - INFO - migrations : DONE
+2022-06-03 09:17:05,204 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:17:05,205 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:17:05,252 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 09:17:05,282 - INFO - migrations : None
+2022-06-03 09:17:05,289 - INFO - migrations : OK
+2022-06-03 09:17:05,292 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 09:17:05,345 - INFO - migrations : None
+2022-06-03 09:17:05,352 - INFO - migrations : OK
+2022-06-03 09:17:05,355 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 09:17:05,435 - INFO - migrations : None
+2022-06-03 09:17:05,446 - INFO - migrations : OK
+2022-06-03 09:17:05,455 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 09:17:05,510 - INFO - migrations : None
+2022-06-03 09:17:05,515 - INFO - migrations : OK
+2022-06-03 09:17:05,519 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 09:17:05,588 - INFO - migrations : None
+2022-06-03 09:17:05,595 - INFO - migrations : OK
+2022-06-03 09:17:05,606 - INFO - migrations : Trigger created
+2022-06-03 09:17:05,608 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where @sensor=sensor_id );
+	            set @days=(select `day` from daily order' at line 4
+2022-06-03 09:17:05,610 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where @sensor=sensor_id);
+	            set @weeks=(select `week` from weekly ord' at line 4
+2022-06-03 09:17:05,612 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where @sensor=sensor_id);
+			set @months=(select `month` from monthly order by `' at line 4
+2022-06-03 09:23:06,370 - INFO - migrations : DB migration service
+2022-06-03 09:23:06,370 - INFO - migrations : Loading configuration from file
+2022-06-03 09:23:06,371 - INFO - migrations : DONE
+2022-06-03 09:23:06,410 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:23:06,412 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:23:06,448 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 09:23:06,487 - INFO - migrations : None
+2022-06-03 09:23:06,493 - INFO - migrations : OK
+2022-06-03 09:23:06,496 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 09:23:06,553 - INFO - migrations : None
+2022-06-03 09:23:06,560 - INFO - migrations : OK
+2022-06-03 09:23:06,564 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 09:23:06,632 - INFO - migrations : None
+2022-06-03 09:23:06,638 - INFO - migrations : OK
+2022-06-03 09:23:06,641 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 09:23:06,694 - INFO - migrations : None
+2022-06-03 09:23:06,700 - INFO - migrations : OK
+2022-06-03 09:23:06,704 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 09:23:06,766 - INFO - migrations : None
+2022-06-03 09:23:06,772 - INFO - migrations : OK
+2022-06-03 09:23:06,783 - INFO - migrations : Trigger created
+2022-06-03 09:23:06,795 - INFO - migrations : Trigger created
+2022-06-03 09:23:06,796 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');
+                if datediff(@weeks,@days)<=7 and @sensor=@sensor_week then
+		' at line 12
+2022-06-03 09:23:06,807 - INFO - migrations : Trigger created
+2022-06-03 09:24:38,764 - INFO - migrations : DB migration service
+2022-06-03 09:24:38,765 - INFO - migrations : Loading configuration from file
+2022-06-03 09:24:38,766 - INFO - migrations : DONE
+2022-06-03 09:24:38,804 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:24:38,805 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:24:38,905 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 09:24:38,965 - INFO - migrations : None
+2022-06-03 09:24:38,976 - INFO - migrations : OK
+2022-06-03 09:24:38,981 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 09:24:39,127 - INFO - migrations : None
+2022-06-03 09:24:39,158 - INFO - migrations : OK
+2022-06-03 09:24:39,164 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 09:24:39,553 - INFO - migrations : None
+2022-06-03 09:24:39,577 - INFO - migrations : OK
+2022-06-03 09:24:39,582 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 09:24:39,889 - INFO - migrations : None
+2022-06-03 09:24:39,898 - INFO - migrations : OK
+2022-06-03 09:24:39,903 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 09:24:40,070 - INFO - migrations : None
+2022-06-03 09:24:40,087 - INFO - migrations : OK
+2022-06-03 09:24:40,115 - INFO - migrations : Trigger created
+2022-06-03 09:24:40,142 - INFO - migrations : Trigger created
+2022-06-03 09:24:40,167 - INFO - migrations : Trigger created
+2022-06-03 09:24:40,191 - INFO - migrations : Trigger created
+2022-06-03 09:26:33,322 - INFO - migrations : DB migration service
+2022-06-03 09:26:33,323 - INFO - migrations : Loading configuration from file
+2022-06-03 09:26:33,324 - INFO - migrations : DONE
+2022-06-03 09:26:33,363 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:26:33,364 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:26:33,372 - INFO - migrations : Migrations table exists
+2022-06-03 09:26:33,382 - INFO - migrations : No migrations to execute
+2022-06-03 09:26:33,393 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:26:33,398 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:26:33,401 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:26:33,404 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:27:45,069 - INFO - migrations : DB migration service
+2022-06-03 09:27:45,069 - INFO - migrations : Loading configuration from file
+2022-06-03 09:27:45,070 - INFO - migrations : DONE
+2022-06-03 09:27:45,108 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:27:45,109 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:27:45,112 - INFO - migrations : Migrations table exists
+2022-06-03 09:27:45,118 - INFO - migrations : No migrations to execute
+2022-06-03 09:27:45,121 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:27:45,124 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:27:45,126 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:27:45,129 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:28:22,513 - INFO - migrations : DB migration service
+2022-06-03 09:28:22,513 - INFO - migrations : Loading configuration from file
+2022-06-03 09:28:22,514 - INFO - migrations : DONE
+2022-06-03 09:28:22,559 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:28:22,560 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:28:22,564 - INFO - migrations : Migrations table exists
+2022-06-03 09:28:22,568 - INFO - migrations : No migrations to execute
+2022-06-03 09:28:22,572 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:28:22,575 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:28:22,578 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:28:22,580 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:29:06,485 - INFO - migrations : DB migration service
+2022-06-03 09:29:06,485 - INFO - migrations : Loading configuration from file
+2022-06-03 09:29:06,486 - INFO - migrations : DONE
+2022-06-03 09:29:06,523 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:29:06,524 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:29:06,528 - INFO - migrations : Migrations table exists
+2022-06-03 09:29:06,532 - INFO - migrations : No migrations to execute
+2022-06-03 09:29:06,536 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:29:06,539 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:29:06,543 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:29:06,546 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 09:39:30,335 - INFO - migrations : DB migration service
+2022-06-03 09:39:30,335 - INFO - migrations : Loading configuration from file
+2022-06-03 09:39:30,336 - INFO - migrations : DONE
+2022-06-03 09:39:30,375 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:39:30,376 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:39:30,421 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 09:39:30,459 - INFO - migrations : None
+2022-06-03 09:39:30,464 - INFO - migrations : OK
+2022-06-03 09:39:30,467 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 09:39:30,551 - INFO - migrations : None
+2022-06-03 09:39:30,581 - INFO - migrations : OK
+2022-06-03 09:39:30,586 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 09:39:30,691 - INFO - migrations : None
+2022-06-03 09:39:30,697 - INFO - migrations : OK
+2022-06-03 09:39:30,701 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 09:39:30,735 - INFO - migrations : None
+2022-06-03 09:39:30,741 - INFO - migrations : OK
+2022-06-03 09:39:30,745 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 09:39:30,794 - INFO - migrations : None
+2022-06-03 09:39:30,801 - INFO - migrations : OK
+2022-06-03 09:39:30,813 - INFO - migrations : Trigger created
+2022-06-03 09:39:30,815 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a);
+                set @averagehumid=(select ceiling(avg(humid)) from hourly wh' at line 8
+2022-06-03 09:39:30,816 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');
+	            end if;
+            end' at line 23
+2022-06-03 09:39:30,818 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');
+			end if;
+		end' at line 23
+2022-06-03 09:40:24,342 - INFO - migrations : DB migration service
+2022-06-03 09:40:24,342 - INFO - migrations : Loading configuration from file
+2022-06-03 09:40:24,343 - INFO - migrations : DONE
+2022-06-03 09:40:24,382 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 09:40:24,383 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 09:40:24,478 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 09:40:24,567 - INFO - migrations : None
+2022-06-03 09:40:24,572 - INFO - migrations : OK
+2022-06-03 09:40:24,575 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 09:40:24,638 - INFO - migrations : None
+2022-06-03 09:40:24,644 - INFO - migrations : OK
+2022-06-03 09:40:24,647 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 09:40:24,694 - INFO - migrations : None
+2022-06-03 09:40:24,699 - INFO - migrations : OK
+2022-06-03 09:40:24,702 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 09:40:24,737 - INFO - migrations : None
+2022-06-03 09:40:24,742 - INFO - migrations : OK
+2022-06-03 09:40:24,746 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 09:40:24,815 - INFO - migrations : None
+2022-06-03 09:40:24,821 - INFO - migrations : OK
+2022-06-03 09:40:24,830 - INFO - migrations : Trigger created
+2022-06-03 09:40:24,832 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a);
+                set @averagehumid=(select ceiling(avg(humid)) from hourly wh' at line 8
+2022-06-03 09:40:24,841 - INFO - migrations : Trigger created
+2022-06-03 09:40:24,842 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');
+			end if;
+		end' at line 23
+2022-06-03 10:38:17,498 - INFO - migrations : DB migration service
+2022-06-03 10:38:17,499 - INFO - migrations : Loading configuration from file
+2022-06-03 10:38:17,500 - INFO - migrations : DONE
+2022-06-03 10:38:17,545 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 10:38:17,546 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 10:38:17,550 - INFO - migrations : Migrations table exists
+2022-06-03 10:38:17,556 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 10:38:17,558 - ERROR - migrations : alter table hourly
+add column 
+max_temp float,
+min_temp float,
+average_temp float,
+average_humid int,
+min_humid int,
+max_humid int;
+
+2022-06-03 10:38:17,559 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'min_temp float,
+average_temp float,
+average_humid int,
+min_humid int,
+max_humid ' at line 4
+2022-06-03 10:38:17,560 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-03 10:38:17,561 - INFO - migrations : No migrations to execute
+2022-06-03 10:38:17,564 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 10:38:17,565 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a);
+                set @averagehumid=(select ceiling(avg(humid)) from hourly wh' at line 8
+2022-06-03 10:38:17,568 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 10:38:17,569 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');
+			end if;
+		end' at line 23
+2022-06-03 10:40:05,354 - INFO - migrations : DB migration service
+2022-06-03 10:40:05,355 - INFO - migrations : Loading configuration from file
+2022-06-03 10:40:05,355 - INFO - migrations : DONE
+2022-06-03 10:40:05,396 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 10:40:05,397 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 10:40:05,438 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 10:40:05,481 - INFO - migrations : None
+2022-06-03 10:40:05,486 - INFO - migrations : OK
+2022-06-03 10:40:05,488 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 10:40:05,522 - INFO - migrations : None
+2022-06-03 10:40:05,527 - INFO - migrations : OK
+2022-06-03 10:40:05,530 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 10:40:05,579 - INFO - migrations : None
+2022-06-03 10:40:05,584 - INFO - migrations : OK
+2022-06-03 10:40:05,588 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 10:40:05,625 - INFO - migrations : None
+2022-06-03 10:40:05,631 - INFO - migrations : OK
+2022-06-03 10:40:05,635 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 10:40:05,687 - INFO - migrations : None
+2022-06-03 10:40:05,692 - INFO - migrations : OK
+2022-06-03 10:40:05,695 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 10:40:05,697 - ERROR - migrations : alter table hourly 
+add column max_temp float
+add column min_temp float
+add column average_temp float
+add column average_humid int
+add column min_humid int
+add column max_humid int
+
+2022-06-03 10:40:05,698 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add column min_temp float
+add column average_temp float
+add column average_humid' at line 3
+2022-06-03 10:40:05,699 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-03 10:40:05,709 - INFO - migrations : Trigger created
+2022-06-03 10:40:05,710 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a);
+                set @averagehumid=(select ceiling(avg(humid)) from hourly wh' at line 8
+2022-06-03 10:40:05,723 - INFO - migrations : Trigger created
+2022-06-03 10:40:05,724 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');
+			end if;
+		end' at line 23
+2022-06-03 10:40:06,767 - INFO - migrations : DB migration service
+2022-06-03 10:40:06,767 - INFO - migrations : Loading configuration from file
+2022-06-03 10:40:06,768 - INFO - migrations : DONE
+2022-06-03 10:40:06,806 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 10:40:06,807 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 10:40:06,810 - INFO - migrations : Migrations table exists
+2022-06-03 10:40:06,817 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 10:40:06,819 - ERROR - migrations : alter table hourly 
+add column max_temp float
+add column min_temp float
+add column average_temp float
+add column average_humid int
+add column min_humid int
+add column max_humid int
+
+2022-06-03 10:40:06,820 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add column min_temp float
+add column average_temp float
+add column average_humid' at line 3
+2022-06-03 10:40:06,822 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-03 10:40:06,822 - INFO - migrations : No migrations to execute
+2022-06-03 10:40:06,825 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 10:40:06,827 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a);
+                set @averagehumid=(select ceiling(avg(humid)) from hourly wh' at line 8
+2022-06-03 10:40:06,830 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-03 10:40:06,831 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');
+			end if;
+		end' at line 23
+2022-06-03 10:40:34,767 - INFO - migrations : DB migration service
+2022-06-03 10:40:34,768 - INFO - migrations : Loading configuration from file
+2022-06-03 10:40:34,769 - INFO - migrations : DONE
+2022-06-03 10:40:34,811 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 10:40:34,812 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 10:40:34,851 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 10:40:34,888 - INFO - migrations : None
+2022-06-03 10:40:34,893 - INFO - migrations : OK
+2022-06-03 10:40:34,896 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 10:40:34,927 - INFO - migrations : None
+2022-06-03 10:40:34,932 - INFO - migrations : OK
+2022-06-03 10:40:34,935 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 10:40:34,981 - INFO - migrations : None
+2022-06-03 10:40:34,986 - INFO - migrations : OK
+2022-06-03 10:40:34,989 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 10:40:35,032 - INFO - migrations : None
+2022-06-03 10:40:35,039 - INFO - migrations : OK
+2022-06-03 10:40:35,042 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 10:40:35,117 - INFO - migrations : None
+2022-06-03 10:40:35,124 - INFO - migrations : OK
+2022-06-03 10:40:35,127 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 10:40:35,128 - ERROR - migrations : alter table hourly 
+add column max_temp float
+add column min_temp float
+add column average_temp float
+add column average_humid int
+add column min_humid int
+add column max_humid int
+
+2022-06-03 10:40:35,129 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add column min_temp float
+add column average_temp float
+add column average_humid' at line 3
+2022-06-03 10:40:35,130 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-03 10:40:35,142 - INFO - migrations : Trigger created
+2022-06-03 10:40:35,143 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a);
+                set @averagehumid=(select ceiling(avg(humid)) from hourly wh' at line 8
+2022-06-03 10:40:35,154 - INFO - migrations : Trigger created
+2022-06-03 10:40:35,155 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');
+			end if;
+		end' at line 23
+2022-06-03 10:43:02,413 - INFO - migrations : DB migration service
+2022-06-03 10:43:02,413 - INFO - migrations : Loading configuration from file
+2022-06-03 10:43:02,414 - INFO - migrations : DONE
+2022-06-03 10:43:02,461 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 10:43:02,462 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 10:43:02,547 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 10:43:02,665 - INFO - migrations : None
+2022-06-03 10:43:02,689 - INFO - migrations : OK
+2022-06-03 10:43:02,694 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 10:43:02,803 - INFO - migrations : None
+2022-06-03 10:43:02,830 - INFO - migrations : OK
+2022-06-03 10:43:02,839 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 10:43:03,107 - INFO - migrations : None
+2022-06-03 10:43:03,129 - INFO - migrations : OK
+2022-06-03 10:43:03,133 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 10:43:03,238 - INFO - migrations : None
+2022-06-03 10:43:03,243 - INFO - migrations : OK
+2022-06-03 10:43:03,246 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 10:43:03,296 - INFO - migrations : None
+2022-06-03 10:43:03,302 - INFO - migrations : OK
+2022-06-03 10:43:03,305 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 10:43:03,306 - ERROR - migrations : alter table hourly 
+add column max_temp float
+add column min_temp float
+add column average_temp float
+add column average_humid int
+add column min_humid int
+add column max_humid int
+
+2022-06-03 10:43:03,308 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'add column min_temp float
+add column average_temp float
+add column average_humid' at line 3
+2022-06-03 10:43:03,308 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-03 10:43:40,976 - INFO - migrations : DB migration service
+2022-06-03 10:43:40,976 - INFO - migrations : Loading configuration from file
+2022-06-03 10:43:40,977 - INFO - migrations : DONE
+2022-06-03 10:43:41,020 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 10:43:41,021 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 10:43:41,065 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 10:43:41,098 - INFO - migrations : None
+2022-06-03 10:43:41,103 - INFO - migrations : OK
+2022-06-03 10:43:41,106 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 10:43:41,135 - INFO - migrations : None
+2022-06-03 10:43:41,143 - INFO - migrations : OK
+2022-06-03 10:43:41,146 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 10:43:41,199 - INFO - migrations : None
+2022-06-03 10:43:41,204 - INFO - migrations : OK
+2022-06-03 10:43:41,207 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 10:43:41,331 - INFO - migrations : None
+2022-06-03 10:43:41,345 - INFO - migrations : OK
+2022-06-03 10:43:41,350 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 10:43:41,479 - INFO - migrations : None
+2022-06-03 10:43:41,486 - INFO - migrations : OK
+2022-06-03 10:43:41,491 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 10:43:41,517 - INFO - migrations : None
+2022-06-03 10:45:32,837 - INFO - migrations : DB migration service
+2022-06-03 10:45:32,838 - INFO - migrations : Loading configuration from file
+2022-06-03 10:45:32,839 - INFO - migrations : DONE
+2022-06-03 10:45:32,878 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 10:45:32,879 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 10:45:33,152 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 10:45:33,284 - INFO - migrations : None
+2022-06-03 10:45:33,361 - INFO - migrations : OK
+2022-06-03 10:45:33,368 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 10:45:33,906 - INFO - migrations : None
+2022-06-03 10:45:34,032 - INFO - migrations : OK
+2022-06-03 10:45:34,045 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 10:45:34,629 - INFO - migrations : None
+2022-06-03 10:45:34,663 - INFO - migrations : OK
+2022-06-03 10:45:34,671 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 10:45:34,818 - INFO - migrations : None
+2022-06-03 10:45:34,834 - INFO - migrations : OK
+2022-06-03 10:45:34,840 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 10:45:34,925 - INFO - migrations : None
+2022-06-03 10:45:34,942 - INFO - migrations : OK
+2022-06-03 10:45:34,947 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 10:45:34,949 - ERROR - migrations : alter table hourly 
+add column
+    max_temp float,
+    min_temp float,
+    average_temp float,
+    average_humid int,
+    min_humid int,
+    max_humid int
+
+2022-06-03 10:45:34,951 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'min_temp float,
+    average_temp float,
+    average_humid int,
+    min_humid int' at line 4
+2022-06-03 10:45:34,952 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-03 10:48:01,669 - INFO - migrations : DB migration service
+2022-06-03 10:48:01,669 - INFO - migrations : Loading configuration from file
+2022-06-03 10:48:01,670 - INFO - migrations : DONE
+2022-06-03 10:48:01,709 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 10:48:01,710 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 10:48:01,750 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 10:48:01,797 - INFO - migrations : None
+2022-06-03 10:48:01,803 - INFO - migrations : OK
+2022-06-03 10:48:01,807 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 10:48:01,840 - INFO - migrations : None
+2022-06-03 10:48:01,846 - INFO - migrations : OK
+2022-06-03 10:48:01,849 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 10:48:01,917 - INFO - migrations : None
+2022-06-03 10:48:01,922 - INFO - migrations : OK
+2022-06-03 10:48:01,926 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 10:48:01,958 - INFO - migrations : None
+2022-06-03 10:48:01,963 - INFO - migrations : OK
+2022-06-03 10:48:01,967 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 10:48:02,012 - INFO - migrations : None
+2022-06-03 10:48:02,018 - INFO - migrations : OK
+2022-06-03 10:48:02,021 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 10:48:02,045 - INFO - migrations : None
+2022-06-03 10:48:02,051 - INFO - migrations : OK
+2022-06-03 10:48:02,053 - INFO - migrations : Executing: 2020060310-alter.sql
+2022-06-03 10:48:02,055 - ERROR - migrations : alter table hourly
+drop column temp, humid
+2022-06-03 10:48:02,055 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'humid' at line 2
+2022-06-03 10:48:02,056 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-03 10:50:18,583 - INFO - migrations : DB migration service
+2022-06-03 10:50:18,584 - INFO - migrations : Loading configuration from file
+2022-06-03 10:50:18,585 - INFO - migrations : DONE
+2022-06-03 10:50:18,622 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 10:50:18,623 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 10:50:18,706 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 10:50:18,793 - INFO - migrations : None
+2022-06-03 10:50:18,815 - INFO - migrations : OK
+2022-06-03 10:50:18,819 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 10:50:19,044 - INFO - migrations : None
+2022-06-03 10:50:19,075 - INFO - migrations : OK
+2022-06-03 10:50:19,086 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 10:50:19,206 - INFO - migrations : None
+2022-06-03 10:50:19,251 - INFO - migrations : OK
+2022-06-03 10:50:19,256 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 10:50:19,412 - INFO - migrations : None
+2022-06-03 10:50:19,429 - INFO - migrations : OK
+2022-06-03 10:50:19,432 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 10:50:19,509 - INFO - migrations : None
+2022-06-03 10:50:19,523 - INFO - migrations : OK
+2022-06-03 10:50:19,526 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 10:50:19,587 - INFO - migrations : None
+2022-06-03 10:50:19,601 - INFO - migrations : OK
+2022-06-03 10:50:19,604 - INFO - migrations : Executing: 2020060310-alter.sql
+2022-06-03 10:50:19,766 - INFO - migrations : None
+2022-06-03 10:50:19,775 - INFO - migrations : OK
+2022-06-03 11:39:32,605 - INFO - migrations : DB migration service
+2022-06-03 11:39:32,605 - INFO - migrations : Loading configuration from file
+2022-06-03 11:39:32,606 - INFO - migrations : DONE
+2022-06-03 11:39:32,642 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 11:39:32,643 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 11:39:32,688 - INFO - migrations : Executing: 20200053050-inital-db.sql
+2022-06-03 11:39:32,691 - ERROR - migrations : create table currently(
+	`time` timestamp not null,
+    humid int,
+    temp float,
+    sensor_id int,
+    primary key(`time`),
+    foreign key(sensor_id) references sensor(id)
+)
+2022-06-03 11:39:32,692 - ERROR - migrations : Problem executing sql query on DB: 1824 (HY000): Failed to open the referenced table 'sensor'
+2022-06-03 11:39:32,693 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-03 11:39:32,693 - INFO - migrations : No migrations to execute
+2022-06-03 11:40:12,636 - INFO - migrations : DB migration service
+2022-06-03 11:40:12,636 - INFO - migrations : Loading configuration from file
+2022-06-03 11:40:12,637 - INFO - migrations : DONE
+2022-06-03 11:40:12,675 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 11:40:12,676 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 11:40:12,680 - INFO - migrations : Migrations table exists
+2022-06-03 11:40:12,683 - INFO - migrations : Executing: 20200053050-inital-db.sql
+2022-06-03 11:40:12,685 - ERROR - migrations : create table currently(
+	`time` timestamp not null,
+    humid int,
+    temp float,
+    sensor_id int,
+    primary key(`time`),
+    foreign key(sensor_id) references sensor(id)
+)
+2022-06-03 11:40:12,686 - ERROR - migrations : Problem executing sql query on DB: 1824 (HY000): Failed to open the referenced table 'sensor'
+2022-06-03 11:40:12,687 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-03 11:40:12,687 - INFO - migrations : No migrations to execute
+2022-06-03 11:41:08,988 - INFO - migrations : DB migration service
+2022-06-03 11:41:08,989 - INFO - migrations : Loading configuration from file
+2022-06-03 11:41:08,990 - INFO - migrations : DONE
+2022-06-03 11:41:09,029 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 11:41:09,030 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 11:41:09,169 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 11:41:09,222 - INFO - migrations : None
+2022-06-03 11:41:09,237 - INFO - migrations : OK
+2022-06-03 11:41:09,239 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 11:41:09,286 - INFO - migrations : None
+2022-06-03 11:41:09,300 - INFO - migrations : OK
+2022-06-03 11:41:09,313 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 11:41:09,533 - INFO - migrations : None
+2022-06-03 11:41:09,556 - INFO - migrations : OK
+2022-06-03 11:41:09,563 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 11:41:09,923 - INFO - migrations : None
+2022-06-03 11:41:09,961 - INFO - migrations : OK
+2022-06-03 11:41:09,974 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 11:41:10,065 - INFO - migrations : None
+2022-06-03 11:41:10,070 - INFO - migrations : OK
+2022-06-03 11:41:10,075 - INFO - migrations : Executing: 2020053050-initial-db.sql
+2022-06-03 11:41:10,130 - INFO - migrations : None
+2022-06-03 11:41:10,135 - INFO - migrations : OK
+2022-06-03 11:41:10,139 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 11:41:10,162 - INFO - migrations : None
+2022-06-03 11:41:10,168 - INFO - migrations : OK
+2022-06-03 11:41:10,171 - INFO - migrations : Executing: 2020060310-alter.sql
+2022-06-03 11:41:10,232 - INFO - migrations : None
+2022-06-03 11:41:10,237 - INFO - migrations : OK
+2022-06-03 11:58:43,780 - INFO - migrations : DB migration service
+2022-06-03 11:58:43,780 - INFO - migrations : Loading configuration from file
+2022-06-03 11:58:43,781 - INFO - migrations : DONE
+2022-06-03 11:58:43,820 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 11:58:43,821 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 11:58:43,858 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 11:58:43,891 - INFO - migrations : None
+2022-06-03 11:58:43,895 - INFO - migrations : OK
+2022-06-03 11:58:43,898 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 11:58:43,931 - INFO - migrations : None
+2022-06-03 11:58:43,939 - INFO - migrations : OK
+2022-06-03 11:58:43,942 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 11:58:43,988 - INFO - migrations : None
+2022-06-03 11:58:43,994 - INFO - migrations : OK
+2022-06-03 11:58:43,998 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 11:58:44,033 - INFO - migrations : None
+2022-06-03 11:58:44,040 - INFO - migrations : OK
+2022-06-03 11:58:44,043 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 11:58:44,087 - INFO - migrations : None
+2022-06-03 11:58:44,093 - INFO - migrations : OK
+2022-06-03 11:58:44,096 - INFO - migrations : Executing: 2020053050-initial-db.sql
+2022-06-03 11:58:44,148 - INFO - migrations : None
+2022-06-03 11:58:44,153 - INFO - migrations : OK
+2022-06-03 11:58:44,156 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 11:58:44,186 - INFO - migrations : None
+2022-06-03 11:58:44,194 - INFO - migrations : OK
+2022-06-03 11:58:44,198 - INFO - migrations : Executing: 2020060310-alter.sql
+2022-06-03 11:58:44,258 - INFO - migrations : None
+2022-06-03 11:58:44,263 - INFO - migrations : OK
+2022-06-03 11:58:44,275 - INFO - migrations : Trigger created
+2022-06-03 11:58:44,276 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'currently on hourly for each row
+            begin
+	            set @hours=(sele' at line 1
+2022-06-03 11:58:44,278 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 25
+2022-06-03 11:58:44,293 - INFO - migrations : Trigger created
+2022-06-03 11:58:44,294 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 25
+2022-06-03 12:00:49,775 - INFO - migrations : DB migration service
+2022-06-03 12:00:49,775 - INFO - migrations : Loading configuration from file
+2022-06-03 12:00:49,776 - INFO - migrations : DONE
+2022-06-03 12:00:49,812 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 12:00:49,814 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 12:00:49,853 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 12:00:49,881 - INFO - migrations : None
+2022-06-03 12:00:49,886 - INFO - migrations : OK
+2022-06-03 12:00:49,889 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 12:00:49,931 - INFO - migrations : None
+2022-06-03 12:00:49,938 - INFO - migrations : OK
+2022-06-03 12:00:49,941 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 12:00:50,003 - INFO - migrations : None
+2022-06-03 12:00:50,011 - INFO - migrations : OK
+2022-06-03 12:00:50,015 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 12:00:50,049 - INFO - migrations : None
+2022-06-03 12:00:50,055 - INFO - migrations : OK
+2022-06-03 12:00:50,059 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 12:00:50,132 - INFO - migrations : None
+2022-06-03 12:00:50,137 - INFO - migrations : OK
+2022-06-03 12:00:50,141 - INFO - migrations : Executing: 2020053050-initial-db.sql
+2022-06-03 12:00:50,200 - INFO - migrations : None
+2022-06-03 12:00:50,206 - INFO - migrations : OK
+2022-06-03 12:00:50,209 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 12:00:50,232 - INFO - migrations : None
+2022-06-03 12:00:50,240 - INFO - migrations : OK
+2022-06-03 12:00:50,242 - INFO - migrations : Executing: 2020060310-alter.sql
+2022-06-03 12:00:50,303 - INFO - migrations : None
+2022-06-03 12:00:50,308 - INFO - migrations : OK
+2022-06-03 12:00:50,317 - INFO - migrations : Trigger created
+2022-06-03 12:00:50,318 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'currently on hourly for each row
+            begin
+	            set @hours=(sele' at line 1
+2022-06-03 12:00:50,320 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 25
+2022-06-03 12:00:50,333 - INFO - migrations : Trigger created
+2022-06-03 12:00:50,334 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 25
+2022-06-03 12:01:10,204 - INFO - migrations : DB migration service
+2022-06-03 12:01:10,205 - INFO - migrations : Loading configuration from file
+2022-06-03 12:01:10,206 - INFO - migrations : DONE
+2022-06-03 12:01:10,245 - INFO - migrations : Connecting to MySQL DB
+2022-06-03 12:01:10,246 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-03 12:01:10,284 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-03 12:01:10,322 - INFO - migrations : None
+2022-06-03 12:01:10,329 - INFO - migrations : OK
+2022-06-03 12:01:10,333 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-03 12:01:10,370 - INFO - migrations : None
+2022-06-03 12:01:10,377 - INFO - migrations : OK
+2022-06-03 12:01:10,381 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-03 12:01:10,441 - INFO - migrations : None
+2022-06-03 12:01:10,448 - INFO - migrations : OK
+2022-06-03 12:01:10,453 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-03 12:01:10,489 - INFO - migrations : None
+2022-06-03 12:01:10,494 - INFO - migrations : OK
+2022-06-03 12:01:10,498 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-03 12:01:10,549 - INFO - migrations : None
+2022-06-03 12:01:10,555 - INFO - migrations : OK
+2022-06-03 12:01:10,558 - INFO - migrations : Executing: 2020053050-initial-db.sql
+2022-06-03 12:01:10,620 - INFO - migrations : None
+2022-06-03 12:01:10,626 - INFO - migrations : OK
+2022-06-03 12:01:10,630 - INFO - migrations : Executing: 2020060300-alter.sql
+2022-06-03 12:01:10,655 - INFO - migrations : None
+2022-06-03 12:01:10,660 - INFO - migrations : OK
+2022-06-03 12:01:10,663 - INFO - migrations : Executing: 2020060310-alter.sql
+2022-06-03 12:01:10,722 - INFO - migrations : None
+2022-06-03 12:01:10,728 - INFO - migrations : OK
+2022-06-03 12:01:10,739 - INFO - migrations : Trigger created
+2022-06-03 12:01:10,739 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'currently on hourly for each row
+            begin
+	            set @hours=(sele' at line 1
+2022-06-03 12:01:10,741 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 25
+2022-06-03 12:01:10,751 - INFO - migrations : Trigger created
+2022-06-03 12:01:10,752 - ERROR - migrations : Failed to create trigger 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 25

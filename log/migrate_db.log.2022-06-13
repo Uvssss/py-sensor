@@ -1,0 +1,678 @@
+2022-06-13 11:04:36,085 - INFO - migrations : DB migration service
+2022-06-13 11:04:36,087 - INFO - migrations : Loading configuration from file
+2022-06-13 11:04:36,087 - INFO - migrations : DONE
+2022-06-13 11:04:36,129 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 11:04:36,130 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 11:04:36,173 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 11:04:36,202 - INFO - migrations : None
+2022-06-13 11:04:36,207 - INFO - migrations : OK
+2022-06-13 11:04:36,211 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 11:04:36,250 - INFO - migrations : None
+2022-06-13 11:04:36,255 - INFO - migrations : OK
+2022-06-13 11:04:36,260 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 11:04:36,303 - INFO - migrations : None
+2022-06-13 11:04:36,308 - INFO - migrations : OK
+2022-06-13 11:04:36,312 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 11:04:36,362 - INFO - migrations : None
+2022-06-13 11:04:36,367 - INFO - migrations : OK
+2022-06-13 11:04:36,372 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 11:04:36,414 - INFO - migrations : None
+2022-06-13 11:04:36,419 - INFO - migrations : OK
+2022-06-13 11:04:36,423 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 11:04:36,467 - INFO - migrations : None
+2022-06-13 11:04:36,471 - INFO - migrations : OK
+2022-06-13 11:04:36,473 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 11:04:36,476 - ERROR - migrations : alter table monthly
+alter column `month` date
+2022-06-13 11:04:36,477 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'date' at line 2
+2022-06-13 11:04:36,477 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-13 11:04:36,487 - INFO - migrations : Trigger created
+2022-06-13 11:04:36,498 - INFO - migrations : Trigger created
+2022-06-13 11:04:36,507 - INFO - migrations : Trigger created
+2022-06-13 11:04:36,517 - INFO - migrations : Trigger created
+2022-06-13 11:04:36,522 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-13 11:04:36,533 - INFO - migrations : Trigger created
+2022-06-13 11:06:07,972 - INFO - migrations : DB migration service
+2022-06-13 11:06:07,972 - INFO - migrations : Loading configuration from file
+2022-06-13 11:06:07,973 - INFO - migrations : DONE
+2022-06-13 11:06:08,011 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 11:06:08,012 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 11:06:08,049 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 11:06:08,075 - INFO - migrations : None
+2022-06-13 11:06:08,080 - INFO - migrations : OK
+2022-06-13 11:06:08,083 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 11:06:08,134 - INFO - migrations : None
+2022-06-13 11:06:08,140 - INFO - migrations : OK
+2022-06-13 11:06:08,144 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 11:06:08,182 - INFO - migrations : None
+2022-06-13 11:06:08,187 - INFO - migrations : OK
+2022-06-13 11:06:08,190 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 11:06:08,230 - INFO - migrations : None
+2022-06-13 11:06:08,235 - INFO - migrations : OK
+2022-06-13 11:06:08,238 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 11:06:08,273 - INFO - migrations : None
+2022-06-13 11:06:08,277 - INFO - migrations : OK
+2022-06-13 11:06:08,280 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 11:06:08,317 - INFO - migrations : None
+2022-06-13 11:06:08,322 - INFO - migrations : OK
+2022-06-13 11:06:08,325 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 11:06:08,327 - ERROR - migrations : (alter table monthly
+    alter column `month` date)
+2022-06-13 11:06:08,328 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'alter table monthly
+    alter column `month` date)' at line 1
+2022-06-13 11:06:08,329 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-13 11:06:08,339 - INFO - migrations : Trigger created
+2022-06-13 11:06:08,349 - INFO - migrations : Trigger created
+2022-06-13 11:06:08,359 - INFO - migrations : Trigger created
+2022-06-13 11:06:08,369 - INFO - migrations : Trigger created
+2022-06-13 11:06:08,380 - INFO - migrations : Trigger created
+2022-06-13 11:13:00,386 - INFO - migrations : DB migration service
+2022-06-13 11:13:00,387 - INFO - migrations : Loading configuration from file
+2022-06-13 11:13:00,388 - INFO - migrations : DONE
+2022-06-13 11:13:00,423 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 11:13:00,425 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 11:13:00,462 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 11:13:00,488 - INFO - migrations : None
+2022-06-13 11:13:00,492 - INFO - migrations : OK
+2022-06-13 11:13:00,496 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 11:13:00,535 - INFO - migrations : None
+2022-06-13 11:13:00,541 - INFO - migrations : OK
+2022-06-13 11:13:00,545 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 11:13:00,584 - INFO - migrations : None
+2022-06-13 11:13:00,589 - INFO - migrations : OK
+2022-06-13 11:13:00,593 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 11:13:00,638 - INFO - migrations : None
+2022-06-13 11:13:00,644 - INFO - migrations : OK
+2022-06-13 11:13:00,648 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 11:13:00,738 - INFO - migrations : None
+2022-06-13 11:13:00,747 - INFO - migrations : OK
+2022-06-13 11:13:00,750 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 11:13:00,792 - INFO - migrations : None
+2022-06-13 11:13:00,798 - INFO - migrations : OK
+2022-06-13 11:13:00,800 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 11:13:00,875 - INFO - migrations : None
+2022-06-13 11:13:00,880 - INFO - migrations : OK
+2022-06-13 11:13:00,888 - INFO - migrations : Trigger created
+2022-06-13 11:13:00,898 - INFO - migrations : Trigger created
+2022-06-13 11:13:00,907 - INFO - migrations : Trigger created
+2022-06-13 11:13:00,918 - INFO - migrations : Trigger created
+2022-06-13 11:13:00,929 - INFO - migrations : Trigger created
+2022-06-13 11:20:19,552 - INFO - migrations : DB migration service
+2022-06-13 11:20:19,552 - INFO - migrations : Loading configuration from file
+2022-06-13 11:20:19,553 - INFO - migrations : DONE
+2022-06-13 11:20:19,595 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 11:20:19,596 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 11:20:19,634 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 11:20:19,660 - INFO - migrations : None
+2022-06-13 11:20:19,665 - INFO - migrations : OK
+2022-06-13 11:20:19,668 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 11:20:19,699 - INFO - migrations : None
+2022-06-13 11:20:19,704 - INFO - migrations : OK
+2022-06-13 11:20:19,708 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 11:20:19,742 - INFO - migrations : None
+2022-06-13 11:20:19,747 - INFO - migrations : OK
+2022-06-13 11:20:19,750 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 11:20:19,793 - INFO - migrations : None
+2022-06-13 11:20:19,798 - INFO - migrations : OK
+2022-06-13 11:20:19,802 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 11:20:19,842 - INFO - migrations : None
+2022-06-13 11:20:19,848 - INFO - migrations : OK
+2022-06-13 11:20:19,851 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 11:20:19,892 - INFO - migrations : None
+2022-06-13 11:20:19,897 - INFO - migrations : OK
+2022-06-13 11:20:19,899 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 11:20:19,958 - INFO - migrations : None
+2022-06-13 11:20:19,963 - INFO - migrations : OK
+2022-06-13 11:20:19,970 - INFO - migrations : Trigger created
+2022-06-13 11:20:19,979 - INFO - migrations : Trigger created
+2022-06-13 11:20:19,988 - INFO - migrations : Trigger created
+2022-06-13 11:20:19,998 - INFO - migrations : Trigger created
+2022-06-13 11:20:20,010 - INFO - migrations : Trigger created
+2022-06-13 12:25:04,372 - INFO - migrations : DB migration service
+2022-06-13 12:25:04,372 - INFO - migrations : Loading configuration from file
+2022-06-13 12:25:04,373 - INFO - migrations : DONE
+2022-06-13 12:25:04,409 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 12:25:04,410 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 12:25:04,446 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 12:25:04,471 - INFO - migrations : None
+2022-06-13 12:25:04,476 - INFO - migrations : OK
+2022-06-13 12:25:04,480 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 12:25:04,517 - INFO - migrations : None
+2022-06-13 12:25:04,523 - INFO - migrations : OK
+2022-06-13 12:25:04,527 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 12:25:04,567 - INFO - migrations : None
+2022-06-13 12:25:04,572 - INFO - migrations : OK
+2022-06-13 12:25:04,576 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 12:25:04,618 - INFO - migrations : None
+2022-06-13 12:25:04,624 - INFO - migrations : OK
+2022-06-13 12:25:04,628 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 12:25:04,671 - INFO - migrations : None
+2022-06-13 12:25:04,676 - INFO - migrations : OK
+2022-06-13 12:25:04,680 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 12:25:04,731 - INFO - migrations : None
+2022-06-13 12:25:04,736 - INFO - migrations : OK
+2022-06-13 12:25:04,739 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 12:25:04,808 - INFO - migrations : None
+2022-06-13 12:25:04,812 - INFO - migrations : OK
+2022-06-13 12:25:04,814 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 12:25:04,815 - ERROR - migrations : ALTER TABLE horuly
+DROP PRIMARY KEY
+2022-06-13 12:25:04,817 - ERROR - migrations : Problem executing sql query on DB: 1146 (42S02): Table 'temp.horuly' doesn't exist
+2022-06-13 12:25:04,817 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-13 12:25:04,824 - INFO - migrations : Trigger created
+2022-06-13 12:25:04,834 - INFO - migrations : Trigger created
+2022-06-13 12:25:04,845 - INFO - migrations : Trigger created
+2022-06-13 12:25:04,854 - INFO - migrations : Trigger created
+2022-06-13 12:25:04,865 - INFO - migrations : Trigger created
+2022-06-13 12:25:45,785 - INFO - migrations : DB migration service
+2022-06-13 12:25:45,785 - INFO - migrations : Loading configuration from file
+2022-06-13 12:25:45,786 - INFO - migrations : DONE
+2022-06-13 12:25:45,828 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 12:25:45,829 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 12:25:45,866 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 12:25:45,890 - INFO - migrations : None
+2022-06-13 12:25:45,894 - INFO - migrations : OK
+2022-06-13 12:25:45,897 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 12:25:45,932 - INFO - migrations : None
+2022-06-13 12:25:45,937 - INFO - migrations : OK
+2022-06-13 12:25:45,940 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 12:25:45,979 - INFO - migrations : None
+2022-06-13 12:25:45,983 - INFO - migrations : OK
+2022-06-13 12:25:45,986 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 12:25:46,047 - INFO - migrations : None
+2022-06-13 12:25:46,052 - INFO - migrations : OK
+2022-06-13 12:25:46,056 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 12:25:46,101 - INFO - migrations : None
+2022-06-13 12:25:46,106 - INFO - migrations : OK
+2022-06-13 12:25:46,109 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 12:25:46,151 - INFO - migrations : None
+2022-06-13 12:25:46,156 - INFO - migrations : OK
+2022-06-13 12:25:46,158 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 12:25:46,236 - INFO - migrations : None
+2022-06-13 12:25:46,243 - INFO - migrations : OK
+2022-06-13 12:25:46,245 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 12:25:46,314 - INFO - migrations : None
+2022-06-13 12:25:46,319 - INFO - migrations : OK
+2022-06-13 12:25:46,321 - INFO - migrations : Executing: 2022061302-alter-db.sql
+2022-06-13 12:25:46,417 - INFO - migrations : None
+2022-06-13 12:25:46,422 - INFO - migrations : OK
+2022-06-13 12:25:46,425 - INFO - migrations : Executing: 2022061303-alter-db.sql
+2022-06-13 12:25:46,485 - INFO - migrations : None
+2022-06-13 12:25:46,490 - INFO - migrations : OK
+2022-06-13 12:25:46,492 - INFO - migrations : Executing: 2022061304-alter-db.sql
+2022-06-13 12:25:46,627 - INFO - migrations : None
+2022-06-13 12:25:46,635 - INFO - migrations : OK
+2022-06-13 12:25:46,653 - INFO - migrations : Trigger created
+2022-06-13 12:25:46,662 - INFO - migrations : Trigger created
+2022-06-13 12:25:46,670 - INFO - migrations : Trigger created
+2022-06-13 12:25:46,680 - INFO - migrations : Trigger created
+2022-06-13 12:25:46,691 - INFO - migrations : Trigger created
+2022-06-13 12:41:17,118 - INFO - migrations : DB migration service
+2022-06-13 12:41:17,118 - INFO - migrations : Loading configuration from file
+2022-06-13 12:41:17,119 - INFO - migrations : DONE
+2022-06-13 12:41:17,159 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 12:41:17,160 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 12:41:17,195 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 12:41:17,222 - INFO - migrations : None
+2022-06-13 12:41:17,227 - INFO - migrations : OK
+2022-06-13 12:41:17,231 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 12:41:17,295 - INFO - migrations : None
+2022-06-13 12:41:17,300 - INFO - migrations : OK
+2022-06-13 12:41:17,304 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 12:41:17,334 - INFO - migrations : None
+2022-06-13 12:41:17,339 - INFO - migrations : OK
+2022-06-13 12:41:17,343 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 12:41:17,385 - INFO - migrations : None
+2022-06-13 12:41:17,391 - INFO - migrations : OK
+2022-06-13 12:41:17,395 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 12:41:17,432 - INFO - migrations : None
+2022-06-13 12:41:17,437 - INFO - migrations : OK
+2022-06-13 12:41:17,442 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 12:41:17,494 - INFO - migrations : None
+2022-06-13 12:41:17,499 - INFO - migrations : OK
+2022-06-13 12:41:17,501 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 12:41:17,581 - INFO - migrations : None
+2022-06-13 12:41:17,586 - INFO - migrations : OK
+2022-06-13 12:41:17,589 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 12:41:17,658 - INFO - migrations : None
+2022-06-13 12:41:17,662 - INFO - migrations : OK
+2022-06-13 12:41:17,664 - INFO - migrations : Executing: 2022061302-alter-db.sql
+2022-06-13 12:41:17,749 - INFO - migrations : None
+2022-06-13 12:41:17,754 - INFO - migrations : OK
+2022-06-13 12:41:17,757 - INFO - migrations : Executing: 2022061303-alter-db.sql
+2022-06-13 12:41:17,835 - INFO - migrations : None
+2022-06-13 12:41:17,841 - INFO - migrations : OK
+2022-06-13 12:41:17,843 - INFO - migrations : Executing: 2022061304-alter-db.sql
+2022-06-13 12:41:17,912 - INFO - migrations : None
+2022-06-13 12:41:17,916 - INFO - migrations : OK
+2022-06-13 12:41:17,923 - INFO - migrations : Trigger created
+2022-06-13 12:41:17,933 - INFO - migrations : Trigger created
+2022-06-13 12:41:17,942 - INFO - migrations : Trigger created
+2022-06-13 12:41:17,952 - INFO - migrations : Trigger created
+2022-06-13 12:41:17,964 - INFO - migrations : Trigger created
+2022-06-13 12:44:38,811 - INFO - migrations : DB migration service
+2022-06-13 12:44:38,812 - INFO - migrations : Loading configuration from file
+2022-06-13 12:44:38,813 - INFO - migrations : DONE
+2022-06-13 12:44:38,851 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 12:44:38,852 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 12:44:38,892 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 12:44:38,921 - INFO - migrations : None
+2022-06-13 12:44:38,925 - INFO - migrations : OK
+2022-06-13 12:44:38,928 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 12:44:38,965 - INFO - migrations : None
+2022-06-13 12:44:38,970 - INFO - migrations : OK
+2022-06-13 12:44:38,975 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 12:44:39,026 - INFO - migrations : None
+2022-06-13 12:44:39,030 - INFO - migrations : OK
+2022-06-13 12:44:39,033 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 12:44:39,081 - INFO - migrations : None
+2022-06-13 12:44:39,086 - INFO - migrations : OK
+2022-06-13 12:44:39,090 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 12:44:39,130 - INFO - migrations : None
+2022-06-13 12:44:39,134 - INFO - migrations : OK
+2022-06-13 12:44:39,139 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 12:44:39,183 - INFO - migrations : None
+2022-06-13 12:44:39,203 - INFO - migrations : OK
+2022-06-13 12:44:39,206 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 12:44:39,355 - INFO - migrations : None
+2022-06-13 12:44:39,360 - INFO - migrations : OK
+2022-06-13 12:44:39,362 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 12:44:39,366 - ERROR - migrations : ALTER TABLE hourly
+DROP CONSTRAINT `hour`;
+2022-06-13 12:44:39,367 - ERROR - migrations : Problem executing sql query on DB: 3940 (HY000): Constraint 'hour' does not exist.
+2022-06-13 12:44:39,368 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-13 12:44:39,377 - INFO - migrations : Trigger created
+2022-06-13 12:44:39,386 - INFO - migrations : Trigger created
+2022-06-13 12:44:39,396 - INFO - migrations : Trigger created
+2022-06-13 12:44:39,406 - INFO - migrations : Trigger created
+2022-06-13 12:44:39,417 - INFO - migrations : Trigger created
+2022-06-13 12:46:16,923 - INFO - migrations : DB migration service
+2022-06-13 12:46:16,924 - INFO - migrations : Loading configuration from file
+2022-06-13 12:46:16,925 - INFO - migrations : DONE
+2022-06-13 12:46:16,973 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 12:46:16,975 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 12:46:17,011 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 12:46:17,038 - INFO - migrations : None
+2022-06-13 12:46:17,043 - INFO - migrations : OK
+2022-06-13 12:46:17,045 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 12:46:17,079 - INFO - migrations : None
+2022-06-13 12:46:17,084 - INFO - migrations : OK
+2022-06-13 12:46:17,089 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 12:46:17,158 - INFO - migrations : None
+2022-06-13 12:46:17,167 - INFO - migrations : OK
+2022-06-13 12:46:17,172 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 12:46:17,226 - INFO - migrations : None
+2022-06-13 12:46:17,232 - INFO - migrations : OK
+2022-06-13 12:46:17,235 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 12:46:17,279 - INFO - migrations : None
+2022-06-13 12:46:17,284 - INFO - migrations : OK
+2022-06-13 12:46:17,288 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 12:46:17,332 - INFO - migrations : None
+2022-06-13 12:46:17,337 - INFO - migrations : OK
+2022-06-13 12:46:17,339 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 12:46:17,414 - INFO - migrations : None
+2022-06-13 12:46:17,419 - INFO - migrations : OK
+2022-06-13 12:46:17,422 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 12:46:17,489 - INFO - migrations : None
+2022-06-13 12:46:17,493 - INFO - migrations : OK
+2022-06-13 12:46:17,495 - INFO - migrations : Executing: 2022061302-alter-db.sql
+2022-06-13 12:46:17,509 - INFO - migrations : None
+2022-06-13 12:46:17,514 - INFO - migrations : OK
+2022-06-13 12:46:17,516 - INFO - migrations : Executing: 2022061303-alter-db.sql
+2022-06-13 12:46:17,518 - ERROR - migrations : ALTER TABLE weekly
+DROP CONSTRAINT `week`;
+2022-06-13 12:46:17,519 - ERROR - migrations : Problem executing sql query on DB: 3940 (HY000): Constraint 'week' does not exist.
+2022-06-13 12:46:17,520 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-13 12:46:17,527 - INFO - migrations : Trigger created
+2022-06-13 12:46:17,536 - INFO - migrations : Trigger created
+2022-06-13 12:46:17,546 - INFO - migrations : Trigger created
+2022-06-13 12:46:17,559 - INFO - migrations : Trigger created
+2022-06-13 12:46:17,571 - INFO - migrations : Trigger created
+2022-06-13 12:48:22,186 - INFO - migrations : DB migration service
+2022-06-13 12:48:22,186 - INFO - migrations : Loading configuration from file
+2022-06-13 12:48:22,187 - INFO - migrations : DONE
+2022-06-13 12:48:22,228 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 12:48:22,229 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 12:48:22,262 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 12:48:22,286 - INFO - migrations : None
+2022-06-13 12:48:22,290 - INFO - migrations : OK
+2022-06-13 12:48:22,294 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 12:48:22,346 - INFO - migrations : None
+2022-06-13 12:48:22,356 - INFO - migrations : OK
+2022-06-13 12:48:22,359 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 12:48:22,425 - INFO - migrations : None
+2022-06-13 12:48:22,430 - INFO - migrations : OK
+2022-06-13 12:48:22,434 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 12:48:22,471 - INFO - migrations : None
+2022-06-13 12:48:22,475 - INFO - migrations : OK
+2022-06-13 12:48:22,479 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 12:48:22,516 - INFO - migrations : None
+2022-06-13 12:48:22,520 - INFO - migrations : OK
+2022-06-13 12:48:22,524 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 12:48:22,567 - INFO - migrations : None
+2022-06-13 12:48:22,573 - INFO - migrations : OK
+2022-06-13 12:48:22,575 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 12:48:22,656 - INFO - migrations : None
+2022-06-13 12:48:22,661 - INFO - migrations : OK
+2022-06-13 12:48:22,663 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 12:48:22,732 - INFO - migrations : None
+2022-06-13 12:48:22,737 - INFO - migrations : OK
+2022-06-13 12:48:22,740 - INFO - migrations : Executing: 2022061302-alter-db.sql
+2022-06-13 12:48:22,808 - INFO - migrations : None
+2022-06-13 12:48:22,814 - INFO - migrations : OK
+2022-06-13 12:48:22,816 - INFO - migrations : Executing: 2022061303-alter-db.sql
+2022-06-13 12:48:22,887 - INFO - migrations : None
+2022-06-13 12:48:22,892 - INFO - migrations : OK
+2022-06-13 12:48:22,894 - INFO - migrations : Executing: 2022061304-alter-db.sql
+2022-06-13 12:48:22,973 - INFO - migrations : None
+2022-06-13 12:48:22,977 - INFO - migrations : OK
+2022-06-13 12:48:22,980 - INFO - migrations : Executing: 2022061305-alter-db.sql
+2022-06-13 12:48:23,053 - INFO - migrations : None
+2022-06-13 12:48:23,057 - INFO - migrations : OK
+2022-06-13 12:48:23,065 - INFO - migrations : Trigger created
+2022-06-13 12:48:23,075 - INFO - migrations : Trigger created
+2022-06-13 12:48:23,084 - INFO - migrations : Trigger created
+2022-06-13 12:48:23,093 - INFO - migrations : Trigger created
+2022-06-13 12:48:23,104 - INFO - migrations : Trigger created
+2022-06-13 12:58:55,990 - INFO - migrations : DB migration service
+2022-06-13 12:58:55,991 - INFO - migrations : Loading configuration from file
+2022-06-13 12:58:55,992 - INFO - migrations : DONE
+2022-06-13 12:58:56,028 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 12:58:56,029 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 12:58:56,036 - INFO - migrations : Migrations table exists
+2022-06-13 12:58:56,044 - INFO - migrations : No migrations to execute
+2022-06-13 12:58:56,053 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-13 12:58:56,057 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-13 12:58:56,059 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-13 12:58:56,062 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-13 12:58:56,066 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-13 12:59:11,217 - INFO - migrations : DB migration service
+2022-06-13 12:59:11,218 - INFO - migrations : Loading configuration from file
+2022-06-13 12:59:11,219 - INFO - migrations : DONE
+2022-06-13 12:59:11,256 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 12:59:11,257 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 12:59:11,290 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 12:59:11,314 - INFO - migrations : None
+2022-06-13 12:59:11,319 - INFO - migrations : OK
+2022-06-13 12:59:11,323 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 12:59:11,389 - INFO - migrations : None
+2022-06-13 12:59:11,395 - INFO - migrations : OK
+2022-06-13 12:59:11,399 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 12:59:11,450 - INFO - migrations : None
+2022-06-13 12:59:11,455 - INFO - migrations : OK
+2022-06-13 12:59:11,459 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 12:59:11,496 - INFO - migrations : None
+2022-06-13 12:59:11,500 - INFO - migrations : OK
+2022-06-13 12:59:11,503 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 12:59:11,540 - INFO - migrations : None
+2022-06-13 12:59:11,545 - INFO - migrations : OK
+2022-06-13 12:59:11,548 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 12:59:11,583 - INFO - migrations : None
+2022-06-13 12:59:11,588 - INFO - migrations : OK
+2022-06-13 12:59:11,591 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 12:59:11,651 - INFO - migrations : None
+2022-06-13 12:59:11,655 - INFO - migrations : OK
+2022-06-13 12:59:11,663 - INFO - migrations : Trigger created
+2022-06-13 12:59:11,671 - INFO - migrations : Trigger created
+2022-06-13 12:59:11,682 - INFO - migrations : Trigger created
+2022-06-13 12:59:11,691 - INFO - migrations : Trigger created
+2022-06-13 12:59:11,700 - INFO - migrations : Trigger created
+2022-06-13 13:04:21,057 - INFO - migrations : DB migration service
+2022-06-13 13:04:21,057 - INFO - migrations : Loading configuration from file
+2022-06-13 13:04:21,058 - INFO - migrations : DONE
+2022-06-13 13:04:21,098 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 13:04:21,099 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 13:04:21,133 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 13:04:21,160 - INFO - migrations : None
+2022-06-13 13:04:21,166 - INFO - migrations : OK
+2022-06-13 13:04:21,170 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 13:04:21,207 - INFO - migrations : None
+2022-06-13 13:04:21,213 - INFO - migrations : OK
+2022-06-13 13:04:21,217 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 13:04:21,296 - INFO - migrations : None
+2022-06-13 13:04:21,301 - INFO - migrations : OK
+2022-06-13 13:04:21,305 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 13:04:21,344 - INFO - migrations : None
+2022-06-13 13:04:21,349 - INFO - migrations : OK
+2022-06-13 13:04:21,354 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 13:04:21,392 - INFO - migrations : None
+2022-06-13 13:04:21,397 - INFO - migrations : OK
+2022-06-13 13:04:21,402 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 13:04:21,443 - INFO - migrations : None
+2022-06-13 13:04:21,449 - INFO - migrations : OK
+2022-06-13 13:04:21,453 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 13:04:21,524 - INFO - migrations : None
+2022-06-13 13:04:21,529 - INFO - migrations : OK
+2022-06-13 13:04:21,538 - INFO - migrations : Trigger created
+2022-06-13 13:04:21,547 - INFO - migrations : Trigger created
+2022-06-13 13:04:21,557 - INFO - migrations : Trigger created
+2022-06-13 13:04:21,569 - INFO - migrations : Trigger created
+2022-06-13 13:04:21,580 - INFO - migrations : Trigger created
+2022-06-13 13:32:49,345 - INFO - migrations : DB migration service
+2022-06-13 13:32:49,346 - INFO - migrations : Loading configuration from file
+2022-06-13 13:32:49,347 - INFO - migrations : DONE
+2022-06-13 13:32:49,389 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 13:32:49,390 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 13:32:49,426 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 13:32:49,454 - INFO - migrations : None
+2022-06-13 13:32:49,459 - INFO - migrations : OK
+2022-06-13 13:32:49,462 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 13:32:49,497 - INFO - migrations : None
+2022-06-13 13:32:49,503 - INFO - migrations : OK
+2022-06-13 13:32:49,507 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 13:32:49,548 - INFO - migrations : None
+2022-06-13 13:32:49,552 - INFO - migrations : OK
+2022-06-13 13:32:49,557 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 13:32:49,605 - INFO - migrations : None
+2022-06-13 13:32:49,609 - INFO - migrations : OK
+2022-06-13 13:32:49,613 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 13:32:49,651 - INFO - migrations : None
+2022-06-13 13:32:49,657 - INFO - migrations : OK
+2022-06-13 13:32:49,660 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 13:32:49,693 - INFO - migrations : None
+2022-06-13 13:32:49,698 - INFO - migrations : OK
+2022-06-13 13:32:49,700 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 13:32:49,773 - INFO - migrations : None
+2022-06-13 13:32:49,778 - INFO - migrations : OK
+2022-06-13 13:32:49,781 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 13:32:49,861 - INFO - migrations : None
+2022-06-13 13:32:49,866 - INFO - migrations : OK
+2022-06-13 13:32:49,869 - INFO - migrations : Executing: 2022061302-alter-db.sql
+2022-06-13 13:32:49,931 - INFO - migrations : None
+2022-06-13 13:32:49,936 - INFO - migrations : OK
+2022-06-13 13:32:49,945 - INFO - migrations : Trigger created
+2022-06-13 13:32:49,955 - INFO - migrations : Trigger created
+2022-06-13 13:32:49,966 - INFO - migrations : Trigger created
+2022-06-13 13:32:49,977 - INFO - migrations : Trigger created
+2022-06-13 13:32:49,987 - INFO - migrations : Trigger created
+2022-06-13 13:39:03,850 - INFO - migrations : DB migration service
+2022-06-13 13:39:03,850 - INFO - migrations : Loading configuration from file
+2022-06-13 13:39:03,851 - INFO - migrations : DONE
+2022-06-13 13:39:03,899 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 13:39:03,900 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 13:39:03,934 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 13:39:03,959 - INFO - migrations : None
+2022-06-13 13:39:03,964 - INFO - migrations : OK
+2022-06-13 13:39:03,967 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 13:39:04,006 - INFO - migrations : None
+2022-06-13 13:39:04,013 - INFO - migrations : OK
+2022-06-13 13:39:04,017 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 13:39:04,062 - INFO - migrations : None
+2022-06-13 13:39:04,067 - INFO - migrations : OK
+2022-06-13 13:39:04,071 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 13:39:04,115 - INFO - migrations : None
+2022-06-13 13:39:04,120 - INFO - migrations : OK
+2022-06-13 13:39:04,124 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 13:39:04,164 - INFO - migrations : None
+2022-06-13 13:39:04,168 - INFO - migrations : OK
+2022-06-13 13:39:04,171 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 13:39:04,222 - INFO - migrations : None
+2022-06-13 13:39:04,227 - INFO - migrations : OK
+2022-06-13 13:39:04,230 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 13:39:04,305 - INFO - migrations : None
+2022-06-13 13:39:04,311 - INFO - migrations : OK
+2022-06-13 13:39:04,314 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 13:39:04,368 - INFO - migrations : None
+2022-06-13 13:39:04,373 - INFO - migrations : OK
+2022-06-13 13:39:04,376 - INFO - migrations : Executing: 2022061302-alter-db.sql
+2022-06-13 13:39:04,431 - INFO - migrations : None
+2022-06-13 13:39:04,436 - INFO - migrations : OK
+2022-06-13 13:39:04,438 - INFO - migrations : Executing: 2022061303-alter-db.sql
+2022-06-13 13:39:04,512 - INFO - migrations : None
+2022-06-13 13:39:04,517 - INFO - migrations : OK
+2022-06-13 13:39:04,519 - INFO - migrations : Executing: 2022061304-alter-db.sql
+2022-06-13 13:39:04,578 - INFO - migrations : None
+2022-06-13 13:39:04,583 - INFO - migrations : OK
+2022-06-13 13:39:04,586 - INFO - migrations : Executing: 2022061305-alter-db.sql
+2022-06-13 13:39:04,641 - INFO - migrations : None
+2022-06-13 13:39:04,647 - INFO - migrations : OK
+2022-06-13 13:39:04,656 - INFO - migrations : Trigger created
+2022-06-13 13:39:04,666 - INFO - migrations : Trigger created
+2022-06-13 13:39:04,677 - INFO - migrations : Trigger created
+2022-06-13 13:39:04,687 - INFO - migrations : Trigger created
+2022-06-13 13:39:04,697 - INFO - migrations : Trigger created
+2022-06-13 13:56:33,691 - INFO - migrations : DB migration service
+2022-06-13 13:56:33,692 - INFO - migrations : Loading configuration from file
+2022-06-13 13:56:33,693 - INFO - migrations : DONE
+2022-06-13 13:56:33,738 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 13:56:33,739 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 13:56:33,785 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 13:56:33,810 - INFO - migrations : None
+2022-06-13 13:56:33,815 - INFO - migrations : OK
+2022-06-13 13:56:33,819 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 13:56:33,899 - INFO - migrations : None
+2022-06-13 13:56:33,909 - INFO - migrations : OK
+2022-06-13 13:56:33,912 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 13:56:33,954 - INFO - migrations : None
+2022-06-13 13:56:33,959 - INFO - migrations : OK
+2022-06-13 13:56:33,963 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 13:56:33,994 - INFO - migrations : None
+2022-06-13 13:56:33,999 - INFO - migrations : OK
+2022-06-13 13:56:34,003 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 13:56:34,040 - INFO - migrations : None
+2022-06-13 13:56:34,046 - INFO - migrations : OK
+2022-06-13 13:56:34,051 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 13:56:34,090 - INFO - migrations : None
+2022-06-13 13:56:34,095 - INFO - migrations : OK
+2022-06-13 13:56:34,098 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 13:56:34,171 - INFO - migrations : None
+2022-06-13 13:56:34,177 - INFO - migrations : OK
+2022-06-13 13:56:34,179 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 13:56:34,241 - INFO - migrations : None
+2022-06-13 13:56:34,246 - INFO - migrations : OK
+2022-06-13 13:56:34,249 - INFO - migrations : Executing: 2022061302-alter-db.sql
+2022-06-13 13:56:34,301 - INFO - migrations : None
+2022-06-13 13:56:34,306 - INFO - migrations : OK
+2022-06-13 13:56:34,309 - INFO - migrations : Executing: 2022061303-alter-db.sql
+2022-06-13 13:56:34,372 - INFO - migrations : None
+2022-06-13 13:56:34,379 - INFO - migrations : OK
+2022-06-13 13:56:34,380 - INFO - migrations : Executing: 2022061304-alter-db.sql
+2022-06-13 13:56:34,443 - INFO - migrations : None
+2022-06-13 13:56:34,448 - INFO - migrations : OK
+2022-06-13 13:56:34,452 - INFO - migrations : Executing: 2022061305-alter-db.sql
+2022-06-13 13:56:34,507 - INFO - migrations : None
+2022-06-13 13:56:34,512 - INFO - migrations : OK
+2022-06-13 13:56:34,523 - INFO - migrations : Trigger created
+2022-06-13 13:56:34,532 - INFO - migrations : Trigger created
+2022-06-13 13:56:34,543 - INFO - migrations : Trigger created
+2022-06-13 13:56:34,552 - INFO - migrations : Trigger created
+2022-06-13 13:56:34,562 - INFO - migrations : Trigger created
+2022-06-13 14:05:50,048 - INFO - migrations : DB migration service
+2022-06-13 14:05:50,048 - INFO - migrations : Loading configuration from file
+2022-06-13 14:05:50,049 - INFO - migrations : DONE
+2022-06-13 14:05:50,098 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 14:05:50,099 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 14:05:50,140 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 14:05:50,167 - INFO - migrations : None
+2022-06-13 14:05:50,171 - INFO - migrations : OK
+2022-06-13 14:05:50,174 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 14:05:50,226 - INFO - migrations : None
+2022-06-13 14:05:50,238 - INFO - migrations : OK
+2022-06-13 14:05:50,242 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 14:05:50,293 - INFO - migrations : None
+2022-06-13 14:05:50,298 - INFO - migrations : OK
+2022-06-13 14:05:50,302 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 14:05:50,339 - INFO - migrations : None
+2022-06-13 14:05:50,344 - INFO - migrations : OK
+2022-06-13 14:05:50,348 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 14:05:50,381 - INFO - migrations : None
+2022-06-13 14:05:50,386 - INFO - migrations : OK
+2022-06-13 14:05:50,390 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 14:05:50,435 - INFO - migrations : None
+2022-06-13 14:05:50,441 - INFO - migrations : OK
+2022-06-13 14:05:50,445 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 14:05:50,518 - INFO - migrations : None
+2022-06-13 14:05:50,522 - INFO - migrations : OK
+2022-06-13 14:05:50,525 - INFO - migrations : Executing: 2022061301-alter-db.sql
+2022-06-13 14:05:50,527 - ERROR - migrations : alter table currently
+    add COLUMN sensor_id int not null;
+    
+2022-06-13 14:05:50,528 - ERROR - migrations : Problem executing sql query on DB: 1060 (42S21): Duplicate column name 'sensor_id'
+2022-06-13 14:05:50,529 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-13 14:05:50,536 - INFO - migrations : Trigger created
+2022-06-13 14:05:50,546 - INFO - migrations : Trigger created
+2022-06-13 14:05:50,555 - INFO - migrations : Trigger created
+2022-06-13 14:05:50,566 - INFO - migrations : Trigger created
+2022-06-13 14:05:50,575 - INFO - migrations : Trigger created
+2022-06-13 14:10:59,522 - INFO - migrations : DB migration service
+2022-06-13 14:10:59,522 - INFO - migrations : Loading configuration from file
+2022-06-13 14:10:59,523 - INFO - migrations : DONE
+2022-06-13 14:10:59,561 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 14:10:59,562 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 14:10:59,598 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 14:10:59,623 - INFO - migrations : None
+2022-06-13 14:10:59,628 - INFO - migrations : OK
+2022-06-13 14:10:59,631 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 14:10:59,669 - INFO - migrations : None
+2022-06-13 14:10:59,675 - INFO - migrations : OK
+2022-06-13 14:10:59,679 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 14:10:59,716 - INFO - migrations : None
+2022-06-13 14:10:59,721 - INFO - migrations : OK
+2022-06-13 14:10:59,725 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 14:10:59,768 - INFO - migrations : None
+2022-06-13 14:10:59,773 - INFO - migrations : OK
+2022-06-13 14:10:59,777 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 14:10:59,812 - INFO - migrations : None
+2022-06-13 14:10:59,818 - INFO - migrations : OK
+2022-06-13 14:10:59,821 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 14:10:59,857 - INFO - migrations : None
+2022-06-13 14:10:59,862 - INFO - migrations : OK
+2022-06-13 14:10:59,868 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 14:10:59,937 - INFO - migrations : None
+2022-06-13 14:10:59,942 - INFO - migrations : OK
+2022-06-13 14:10:59,950 - INFO - migrations : Trigger created
+2022-06-13 14:10:59,961 - INFO - migrations : Trigger created
+2022-06-13 14:10:59,971 - INFO - migrations : Trigger created
+2022-06-13 14:10:59,981 - INFO - migrations : Trigger created
+2022-06-13 14:10:59,992 - INFO - migrations : Trigger created
+2022-06-13 14:23:53,541 - INFO - migrations : DB migration service
+2022-06-13 14:23:53,541 - INFO - migrations : Loading configuration from file
+2022-06-13 14:23:53,542 - INFO - migrations : DONE
+2022-06-13 14:23:53,582 - INFO - migrations : Connecting to MySQL DB
+2022-06-13 14:23:53,583 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-13 14:23:53,623 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-13 14:23:53,649 - INFO - migrations : None
+2022-06-13 14:23:53,654 - INFO - migrations : OK
+2022-06-13 14:23:53,658 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-13 14:23:53,693 - INFO - migrations : None
+2022-06-13 14:23:53,699 - INFO - migrations : OK
+2022-06-13 14:23:53,703 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-13 14:23:53,739 - INFO - migrations : None
+2022-06-13 14:23:53,745 - INFO - migrations : OK
+2022-06-13 14:23:53,748 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-13 14:23:53,804 - INFO - migrations : None
+2022-06-13 14:23:53,810 - INFO - migrations : OK
+2022-06-13 14:23:53,814 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-13 14:23:53,853 - INFO - migrations : None
+2022-06-13 14:23:53,857 - INFO - migrations : OK
+2022-06-13 14:23:53,861 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-13 14:23:53,900 - INFO - migrations : None
+2022-06-13 14:23:53,904 - INFO - migrations : OK
+2022-06-13 14:23:53,906 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-13 14:23:53,985 - INFO - migrations : None
+2022-06-13 14:23:53,990 - INFO - migrations : OK
+2022-06-13 14:23:53,998 - INFO - migrations : Trigger created
+2022-06-13 14:23:54,008 - INFO - migrations : Trigger created
+2022-06-13 14:23:54,019 - INFO - migrations : Trigger created
+2022-06-13 14:23:54,029 - INFO - migrations : Trigger created
+2022-06-13 14:23:54,040 - INFO - migrations : Trigger created

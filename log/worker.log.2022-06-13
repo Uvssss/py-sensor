@@ -1,0 +1,311 @@
+2022-06-13 09:15:45,860 - INFO - worker : Loading configuration from file
+2022-06-13 09:55:04,766 - INFO - worker : Loading configuration from file
+2022-06-13 09:57:15,885 - INFO - worker : Loading configuration from file
+2022-06-13 10:08:17,293 - INFO - worker : Loading configuration from file
+2022-06-13 10:08:37,013 - INFO - worker : Loading configuration from file
+2022-06-13 10:08:53,389 - INFO - worker : Loading configuration from file
+2022-06-13 10:09:23,594 - INFO - worker : Loading configuration from file
+2022-06-13 10:09:46,440 - INFO - worker : Loading configuration from file
+2022-06-13 10:09:55,763 - INFO - worker : Loading configuration from file
+2022-06-13 10:10:34,350 - INFO - worker : Loading configuration from file
+2022-06-13 10:10:54,019 - INFO - worker : Loading configuration from file
+2022-06-13 10:11:05,861 - INFO - worker : Loading configuration from file
+2022-06-13 10:11:25,821 - INFO - worker : Loading configuration from file
+2022-06-13 10:12:53,749 - INFO - worker : Loading configuration from file
+2022-06-13 10:13:19,958 - INFO - worker : Loading configuration from file
+2022-06-13 10:14:05,693 - INFO - worker : Loading configuration from file
+2022-06-13 10:14:08,548 - ERROR - worker : Failed to insert into MySQL table Unread result found
+2022-06-13 10:31:13,993 - INFO - worker : Loading configuration from file
+2022-06-13 10:31:21,818 - ERROR - worker : Failed to insert into MySQL table 1048 (23000): Column 'day' cannot be null
+2022-06-13 10:31:59,415 - INFO - worker : Loading configuration from file
+2022-06-13 10:32:04,867 - ERROR - worker : Failed to insert into MySQL table 1048 (23000): Column 'day' cannot be null
+2022-06-13 10:32:32,280 - INFO - worker : Loading configuration from file
+2022-06-13 10:32:34,540 - ERROR - worker : Failed to insert into MySQL table 1048 (23000): Column 'day' cannot be null
+2022-06-13 10:33:00,148 - INFO - worker : Loading configuration from file
+2022-06-13 10:41:43,283 - INFO - worker : Loading configuration from file
+2022-06-13 10:42:10,963 - INFO - worker : Loading configuration from file
+2022-06-13 10:42:23,164 - INFO - worker : Loading configuration from file
+2022-06-13 10:42:40,734 - INFO - worker : Loading configuration from file
+2022-06-13 10:43:15,307 - INFO - worker : Loading configuration from file
+2022-06-13 10:44:51,962 - INFO - worker : Loading configuration from file
+2022-06-13 10:45:28,621 - INFO - worker : Loading configuration from file
+2022-06-13 10:45:38,835 - INFO - worker : Loading configuration from file
+2022-06-13 10:46:20,033 - INFO - worker : Loading configuration from file
+2022-06-13 10:46:25,160 - INFO - worker : Loading configuration from file
+2022-06-13 10:48:49,317 - INFO - worker : Loading configuration from file
+2022-06-13 10:49:05,287 - INFO - worker : Loading configuration from file
+2022-06-13 10:49:06,802 - ERROR - worker : Failed to insert into MySQL table 1048 (23000): Column 'day' cannot be null
+2022-06-13 10:49:22,898 - INFO - worker : Loading configuration from file
+2022-06-13 10:49:59,117 - INFO - worker : Loading configuration from file
+2022-06-13 10:50:10,703 - INFO - worker : Loading configuration from file
+2022-06-13 10:50:19,468 - INFO - worker : Loading configuration from file
+2022-06-13 10:50:37,959 - INFO - worker : Loading configuration from file
+2022-06-13 10:50:53,021 - INFO - worker : Loading configuration from file
+2022-06-13 10:51:23,712 - INFO - worker : Loading configuration from file
+2022-06-13 10:51:27,213 - INFO - worker : Loading configuration from file
+2022-06-13 10:52:05,209 - INFO - worker : Loading configuration from file
+2022-06-13 10:59:28,265 - INFO - worker : Loading configuration from file
+2022-06-13 11:00:04,041 - INFO - worker : Loading configuration from file
+2022-06-13 11:00:22,076 - INFO - worker : Loading configuration from file
+2022-06-13 11:01:17,639 - INFO - worker : Loading configuration from file
+2022-06-13 11:01:20,622 - INFO - worker : Loading configuration from file
+2022-06-13 11:01:52,175 - INFO - worker : Loading configuration from file
+2022-06-13 11:01:53,558 - ERROR - worker : Could not process parameters: str(test), it must be of type list, tuple or dict
+2022-06-13 11:03:20,533 - INFO - worker : Loading configuration from file
+2022-06-13 11:03:22,092 - ERROR - worker : Could not process parameters: str(test), it must be of type list, tuple or dict
+2022-06-13 11:03:28,265 - INFO - worker : Loading configuration from file
+2022-06-13 11:03:41,987 - INFO - worker : Loading configuration from file
+2022-06-13 11:06:03,931 - INFO - worker : Loading configuration from file
+2022-06-13 11:16:47,254 - INFO - worker : Loading configuration from file
+2022-06-13 11:17:54,405 - INFO - worker : Loading configuration from file
+2022-06-13 11:17:54,413 - INFO - worker :  inserted successfully in sensor
+2022-06-13 11:17:54,438 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:17:55,447 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:17:56,461 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:17:57,473 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:17:58,483 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:17:59,490 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:18:00,500 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:18:01,508 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:18:02,518 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:18:03,525 - ERROR - worker : Failed to insert into MySQL table 1292 (22007): Incorrect date value: '2022-06' for column 'month' at row 1
+2022-06-13 11:20:26,820 - INFO - worker : Loading configuration from file
+2022-06-13 11:20:26,837 - INFO - worker :  inserted successfully in sensor
+2022-06-13 11:20:26,858 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:27,879 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:28,902 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:29,927 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:30,951 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:31,974 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:32,990 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:34,016 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:35,038 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:36,048 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:37,059 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:38,071 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:39,085 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:40,095 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:41,108 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:42,130 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:43,141 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:44,151 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:45,176 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:46,198 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:47,209 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:48,223 - INFO - worker :  inserted successfully in current
+2022-06-13 11:20:49,246 - INFO - worker :  inserted successfully in current
+2022-06-13 11:21:55,470 - INFO - worker : Loading configuration from file
+2022-06-13 11:25:41,602 - INFO - worker : Loading configuration from file
+2022-06-13 11:26:07,425 - INFO - worker : Loading configuration from file
+2022-06-13 11:26:09,154 - ERROR - worker : Could not process parameters: str(test), it must be of type list, tuple or dict
+2022-06-13 11:26:21,972 - INFO - worker : Loading configuration from file
+2022-06-13 11:26:23,853 - ERROR - worker : Could not process parameters: str(test), it must be of type list, tuple or dict
+2022-06-13 11:31:07,447 - INFO - worker : Loading configuration from file
+2022-06-13 11:32:30,029 - INFO - worker : Loading configuration from file
+2022-06-13 11:32:44,857 - INFO - worker : Loading configuration from file
+2022-06-13 11:32:46,415 - INFO - worker :  inserted successfully in current
+2022-06-13 11:32:47,432 - INFO - worker :  inserted successfully in current
+2022-06-13 11:32:48,440 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:11,953 - INFO - worker : Loading configuration from file
+2022-06-13 12:15:20,753 - INFO - worker :  inserted successfully in sensor
+2022-06-13 12:15:36,779 - INFO - worker : Loading configuration from file
+2022-06-13 12:15:46,293 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:47,305 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:48,330 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:49,354 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:50,367 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:51,392 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:52,404 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:53,419 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:54,430 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:55,454 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:56,465 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:57,489 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:58,500 - INFO - worker :  inserted successfully in current
+2022-06-13 12:15:59,509 - INFO - worker :  inserted successfully in current
+2022-06-13 12:16:00,520 - INFO - worker :  inserted successfully in current
+2022-06-13 12:16:01,544 - INFO - worker :  inserted successfully in current
+2022-06-13 12:16:02,555 - INFO - worker :  inserted successfully in current
+2022-06-13 12:16:03,568 - INFO - worker :  inserted successfully in current
+2022-06-13 12:16:04,588 - INFO - worker :  inserted successfully in current
+2022-06-13 12:16:05,602 - INFO - worker :  inserted successfully in current
+2022-06-13 12:16:06,612 - INFO - worker :  inserted successfully in current
+2022-06-13 12:18:27,110 - INFO - worker : Loading configuration from file
+2022-06-13 12:18:34,836 - ERROR - worker : Failed to insert into MySQL table 1062 (23000): Duplicate entry '2022-06-13' for key 'daily.PRIMARY'
+2022-06-13 12:18:34,836 - ERROR - insert_data : Wrong Number
+2022-06-13 12:24:43,393 - INFO - worker : Loading configuration from file
+2022-06-13 12:25:51,302 - INFO - worker : Loading configuration from file
+2022-06-13 12:26:01,276 - INFO - worker :  inserted successfully in sensor
+2022-06-13 12:26:06,836 - INFO - worker : Loading configuration from file
+2022-06-13 12:26:34,737 - INFO - worker :  inserted successfully in sensor
+2022-06-13 12:26:37,565 - INFO - worker : Loading configuration from file
+2022-06-13 12:27:32,365 - INFO - worker : Loading configuration from file
+2022-06-13 12:27:34,350 - INFO - worker : 
+Printing each row from Hourly
+2022-06-13 12:28:18,641 - INFO - worker : Loading configuration from file
+2022-06-13 12:28:18,650 - INFO - worker : 
+Printing each row from Hourly
+2022-06-13 12:34:02,185 - INFO - worker : Loading configuration from file
+2022-06-13 12:34:04,591 - INFO - worker : 
+Printing each row from Sensor
+2022-06-13 12:34:04,612 - INFO - worker : /n
+2022-06-13 12:34:04,631 - INFO - worker : /n
+2022-06-13 12:35:38,314 - INFO - worker : Loading configuration from file
+2022-06-13 12:35:58,116 - INFO - worker :  inserted successfully in current
+2022-06-13 12:35:58,116 - ERROR - insert_data : Wrong Number
+2022-06-13 12:36:40,999 - INFO - worker : Loading configuration from file
+2022-06-13 12:36:50,962 - INFO - worker :  inserted successfully in current
+2022-06-13 12:36:51,975 - INFO - worker :  inserted successfully in current
+2022-06-13 12:36:52,986 - INFO - worker :  inserted successfully in current
+2022-06-13 12:36:53,997 - INFO - worker :  inserted successfully in current
+2022-06-13 12:36:55,020 - INFO - worker :  inserted successfully in current
+2022-06-13 12:36:56,043 - INFO - worker :  inserted successfully in current
+2022-06-13 12:36:57,058 - INFO - worker :  inserted successfully in current
+2022-06-13 12:36:58,079 - INFO - worker :  inserted successfully in current
+2022-06-13 12:36:59,097 - INFO - worker :  inserted successfully in current
+2022-06-13 12:37:00,107 - INFO - worker :  inserted successfully in current
+2022-06-13 12:37:05,420 - INFO - worker : Loading configuration from file
+2022-06-13 12:37:32,791 - ERROR - worker : Failed to insert into MySQL table 1062 (23000): Duplicate entry '2022-06-13' for key 'daily.day'
+2022-06-13 12:37:32,792 - ERROR - insert_data : Wrong Number
+2022-06-13 12:38:46,476 - INFO - worker : Loading configuration from file
+2022-06-13 12:38:55,617 - ERROR - worker : Failed to insert into MySQL table 1062 (23000): Duplicate entry '2022-06-13' for key 'daily.day'
+2022-06-13 12:38:56,634 - ERROR - worker : Failed to insert into MySQL table 1062 (23000): Duplicate entry '2022-06-13' for key 'daily.day'
+2022-06-13 12:38:57,644 - ERROR - worker : Failed to insert into MySQL table 1062 (23000): Duplicate entry '2022-06-13' for key 'daily.day'
+2022-06-13 12:48:37,842 - INFO - worker : Loading configuration from file
+2022-06-13 12:48:45,200 - INFO - worker :  inserted successfully in sensor
+2022-06-13 12:48:49,173 - INFO - worker : Loading configuration from file
+2022-06-13 12:48:57,309 - INFO - worker : Loading configuration from file
+2022-06-13 12:49:03,450 - INFO - worker :  inserted successfully in sensor
+2022-06-13 12:49:06,340 - INFO - worker : Loading configuration from file
+2022-06-13 12:49:25,084 - INFO - worker :  inserted successfully in current
+2022-06-13 12:49:25,085 - ERROR - insert_data : Wrong Number
+2022-06-13 12:52:02,015 - INFO - worker : Loading configuration from file
+2022-06-13 12:52:20,529 - ERROR - worker : Failed to insert into MySQL table 1062 (23000): Duplicate entry '2022-06-13' for key 'daily.day'
+2022-06-13 13:00:04,752 - INFO - worker : Loading configuration from file
+2022-06-13 13:00:13,443 - INFO - worker :  inserted successfully in sensor
+2022-06-13 13:00:16,117 - INFO - worker : Loading configuration from file
+2022-06-13 13:00:22,945 - INFO - worker :  inserted successfully in sensor
+2022-06-13 13:00:26,168 - INFO - worker : Loading configuration from file
+2022-06-13 13:01:13,772 - INFO - worker : Loading configuration from file
+2022-06-13 13:01:25,547 - INFO - worker :  inserted successfully in sensor
+2022-06-13 13:02:04,541 - INFO - worker : Loading configuration from file
+2022-06-13 13:02:12,101 - INFO - worker :  inserted successfully in current
+2022-06-13 13:02:14,395 - INFO - worker : Loading configuration from file
+2022-06-13 13:03:19,442 - INFO - worker : Loading configuration from file
+2022-06-13 13:03:23,057 - ERROR - worker : Failed to insert into MySQL table 1062 (23000): Duplicate entry '2022-06' for key 'monthly.PRIMARY'
+2022-06-13 13:04:31,440 - INFO - worker : Loading configuration from file
+2022-06-13 13:04:39,117 - INFO - worker :  inserted successfully in sensor
+2022-06-13 13:04:41,496 - INFO - worker : Loading configuration from file
+2022-06-13 13:04:51,325 - INFO - worker :  inserted successfully in sensor
+2022-06-13 13:04:53,984 - INFO - worker : Loading configuration from file
+2022-06-13 13:04:59,754 - INFO - worker :  inserted successfully in current
+2022-06-13 13:05:01,773 - INFO - worker : Loading configuration from file
+2022-06-13 13:05:04,535 - INFO - worker :  inserted successfully in current
+2022-06-13 13:17:57,883 - INFO - worker : Loading configuration from file
+2022-06-13 13:20:26,926 - INFO - worker : Loading configuration from file
+2022-06-13 13:24:46,344 - INFO - worker : Loading configuration from file
+2022-06-13 13:24:53,167 - INFO - worker : 
+Printing each row from Hourly
+2022-06-13 13:25:46,631 - INFO - worker : Loading configuration from file
+2022-06-13 13:26:10,644 - INFO - worker : Loading configuration from file
+2022-06-13 13:26:38,235 - INFO - worker : Loading configuration from file
+2022-06-13 13:27:07,747 - INFO - worker : 
+Printing each row from weekly
+2022-06-13 14:24:21,241 - INFO - worker : Loading configuration from file
+2022-06-13 14:24:28,396 - INFO - worker :  inserted successfully in sensor
+2022-06-13 14:24:30,709 - INFO - worker : Loading configuration from file
+2022-06-13 14:24:37,206 - INFO - worker :  inserted successfully in current
+2022-06-13 14:41:41,151 - INFO - worker : Loading configuration from file
+2022-06-13 14:41:55,883 - INFO - worker :  inserted successfully in current
+2022-06-13 14:41:56,892 - INFO - worker :  inserted successfully in current
+2022-06-13 14:41:57,900 - INFO - worker :  inserted successfully in current
+2022-06-13 14:41:58,909 - INFO - worker :  inserted successfully in current
+2022-06-13 14:41:59,925 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:00,946 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:01,960 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:02,980 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:03,995 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:05,016 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:06,037 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:09,931 - INFO - worker : Loading configuration from file
+2022-06-13 14:42:15,115 - INFO - worker :  inserted successfully in sensor
+2022-06-13 14:42:16,929 - INFO - worker : Loading configuration from file
+2022-06-13 14:42:22,292 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:23,310 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:24,320 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:25,332 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:26,353 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:27,366 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:28,386 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:29,394 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:30,418 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:31,428 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:32,451 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:33,474 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:34,483 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:35,497 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:36,521 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:37,544 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:38,568 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:39,577 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:40,585 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:41,607 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:42,619 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:43,641 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:44,653 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:45,665 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:46,674 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:47,699 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:48,721 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:49,742 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:50,768 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:51,792 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:52,819 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:53,841 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:54,866 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:55,889 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:56,914 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:57,938 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:58,949 - INFO - worker :  inserted successfully in current
+2022-06-13 14:42:59,975 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:01,000 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:02,027 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:03,052 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:04,079 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:05,100 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:06,124 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:07,151 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:08,176 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:09,202 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:10,222 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:11,243 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:12,256 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:13,270 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:14,294 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:15,322 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:16,334 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:17,355 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:18,367 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:19,379 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:20,407 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:21,431 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:22,452 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:23,477 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:24,501 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:25,524 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:26,552 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:27,574 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:28,588 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:29,610 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:30,633 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:31,660 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:32,677 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:33,703 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:34,736 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:35,755 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:36,782 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:37,809 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:38,835 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:39,863 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:40,888 - INFO - worker :  inserted successfully in current
+2022-06-13 14:43:41,913 - INFO - worker :  inserted successfully in current

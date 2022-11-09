@@ -1,0 +1,95 @@
+2022-06-14 08:53:58,670 - INFO - migrations : DB migration service
+2022-06-14 08:53:58,672 - INFO - migrations : Loading configuration from file
+2022-06-14 08:53:58,679 - INFO - migrations : DONE
+2022-06-14 08:54:08,470 - INFO - migrations : DB migration service
+2022-06-14 08:54:08,470 - INFO - migrations : Loading configuration from file
+2022-06-14 08:54:08,471 - INFO - migrations : DONE
+2022-06-14 08:54:08,506 - INFO - migrations : Connecting to MySQL DB
+2022-06-14 08:54:08,508 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-14 08:54:08,559 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-14 08:54:08,625 - INFO - migrations : None
+2022-06-14 08:54:08,632 - INFO - migrations : OK
+2022-06-14 08:54:08,633 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-14 08:54:08,685 - INFO - migrations : None
+2022-06-14 08:54:08,691 - INFO - migrations : OK
+2022-06-14 08:54:08,694 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-14 08:54:08,696 - ERROR - migrations : create table hourly (
+	`hour` datetime not null,
+    temp float,
+    humid int
+    sensor_id int not null
+    foreign key sensor_id references sensor(id)
+)
+2022-06-14 08:54:08,697 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sensor_id int not null
+    foreign key sensor_id references sensor(id)
+)' at line 5
+2022-06-14 08:54:08,699 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-14 08:54:08,714 - INFO - migrations : Trigger created
+2022-06-14 08:54:08,724 - INFO - migrations : Trigger created
+2022-06-14 08:54:08,735 - INFO - migrations : Trigger created
+2022-06-14 08:54:08,745 - INFO - migrations : Trigger created
+2022-06-14 08:54:08,755 - INFO - migrations : Trigger created
+2022-06-14 08:55:27,206 - INFO - migrations : DB migration service
+2022-06-14 08:55:27,206 - INFO - migrations : Loading configuration from file
+2022-06-14 08:55:27,207 - INFO - migrations : DONE
+2022-06-14 08:55:27,247 - INFO - migrations : Connecting to MySQL DB
+2022-06-14 08:55:27,248 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-14 08:55:27,289 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-14 08:55:27,337 - INFO - migrations : None
+2022-06-14 08:55:27,341 - INFO - migrations : OK
+2022-06-14 08:55:27,345 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-14 08:55:27,389 - INFO - migrations : None
+2022-06-14 08:55:27,394 - INFO - migrations : OK
+2022-06-14 08:55:27,397 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-14 08:55:27,398 - ERROR - migrations : create table hourly (
+	`hour` datetime not null,
+    temp float,
+    humid int,
+    sensor_id int not null ,
+    foreign key sensor_id references sensor(id)
+)
+2022-06-14 08:55:27,400 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'references sensor(id)
+)' at line 6
+2022-06-14 08:55:27,400 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-14 08:55:27,408 - INFO - migrations : Trigger created
+2022-06-14 08:55:27,418 - INFO - migrations : Trigger created
+2022-06-14 08:55:27,428 - INFO - migrations : Trigger created
+2022-06-14 08:55:27,437 - INFO - migrations : Trigger created
+2022-06-14 08:55:27,450 - INFO - migrations : Trigger created
+2022-06-14 08:56:38,120 - INFO - migrations : DB migration service
+2022-06-14 08:56:38,120 - INFO - migrations : Loading configuration from file
+2022-06-14 08:56:38,121 - INFO - migrations : DONE
+2022-06-14 08:56:38,158 - INFO - migrations : Connecting to MySQL DB
+2022-06-14 08:56:38,159 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-14 08:56:38,202 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-14 08:56:38,239 - INFO - migrations : None
+2022-06-14 08:56:38,244 - INFO - migrations : OK
+2022-06-14 08:56:38,247 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-14 08:56:38,291 - INFO - migrations : None
+2022-06-14 08:56:38,297 - INFO - migrations : OK
+2022-06-14 08:56:38,300 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-14 08:56:38,346 - INFO - migrations : None
+2022-06-14 08:56:38,351 - INFO - migrations : OK
+2022-06-14 08:56:38,358 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-14 08:56:38,406 - INFO - migrations : None
+2022-06-14 08:56:38,411 - INFO - migrations : OK
+2022-06-14 08:56:38,420 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-14 08:56:38,477 - INFO - migrations : None
+2022-06-14 08:56:38,482 - INFO - migrations : OK
+2022-06-14 08:56:38,487 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-14 08:56:38,537 - INFO - migrations : None
+2022-06-14 08:56:38,541 - INFO - migrations : OK
+2022-06-14 08:56:38,544 - INFO - migrations : Executing: 2022061300-alter-db.sql
+2022-06-14 08:56:38,640 - INFO - migrations : None
+2022-06-14 08:56:38,645 - INFO - migrations : OK
+2022-06-14 08:56:38,646 - INFO - migrations : Executing: 2022061400-alter-db.sql
+2022-06-14 08:56:38,679 - INFO - migrations : None
+2022-06-14 08:56:38,685 - INFO - migrations : OK
+2022-06-14 08:56:38,689 - INFO - migrations : Executing: 2022061401-alter-db.sql
+2022-06-14 08:56:38,730 - INFO - migrations : None
+2022-06-14 08:56:38,736 - INFO - migrations : OK
+2022-06-14 08:56:38,743 - INFO - migrations : Trigger created
+2022-06-14 08:56:38,752 - INFO - migrations : Trigger created
+2022-06-14 08:56:38,762 - INFO - migrations : Trigger created
+2022-06-14 08:56:38,773 - INFO - migrations : Trigger created
+2022-06-14 08:56:38,784 - INFO - migrations : Trigger created

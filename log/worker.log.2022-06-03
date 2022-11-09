@@ -1,0 +1,108 @@
+2022-06-03 09:04:42,314 - INFO - worker : Loading configuration from file
+2022-06-03 09:04:46,387 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:04:46,392 - INFO - worker :  inserted successfully in sensor
+2022-06-03 09:06:48,771 - INFO - worker : Loading configuration from file
+2022-06-03 09:06:58,688 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:06:58,694 - INFO - worker :  inserted successfully in sensor
+2022-06-03 09:08:14,294 - INFO - worker : Loading configuration from file
+2022-06-03 09:08:23,756 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:08:23,768 - INFO - worker :  inserted successfully in sensor
+2022-06-03 09:08:56,259 - INFO - worker : Loading configuration from file
+2022-06-03 09:08:56,265 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:08:57,278 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:08:58,293 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:08:59,308 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:09:00,318 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:09:01,328 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:09:02,336 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 09:24:51,531 - INFO - worker : Loading configuration from file
+2022-06-03 09:26:33,422 - INFO - worker : Loading configuration from file
+2022-06-03 09:27:45,148 - INFO - worker : Loading configuration from file
+2022-06-03 09:28:22,601 - INFO - worker : Loading configuration from file
+2022-06-03 09:29:06,569 - INFO - worker : Loading configuration from file
+2022-06-03 09:29:09,828 - INFO - worker :  inserted successfully in sensor
+2022-06-03 09:29:09,839 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 11:34:44,050 - INFO - worker : Loading configuration from file
+2022-06-03 11:34:44,051 - ERROR - worker : Failed to insert into MySQL table Not all parameters were used in the SQL statement
+2022-06-03 11:34:45,067 - ERROR - worker : Failed to insert into MySQL table Not all parameters were used in the SQL statement
+2022-06-03 11:34:46,077 - ERROR - worker : Failed to insert into MySQL table Not all parameters were used in the SQL statement
+2022-06-03 11:34:47,089 - ERROR - worker : Failed to insert into MySQL table Not all parameters were used in the SQL statement
+2022-06-03 11:39:00,671 - INFO - worker : Loading configuration from file
+2022-06-03 11:39:00,673 - ERROR - worker : Failed to insert into MySQL table 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-03 11:39:01,674 - ERROR - worker : Failed to insert into MySQL table 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-03 11:39:02,684 - ERROR - worker : Failed to insert into MySQL table 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-03 11:39:03,697 - ERROR - worker : Failed to insert into MySQL table 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-03 11:39:04,709 - ERROR - worker : Failed to insert into MySQL table 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-03 11:47:56,871 - INFO - worker : Loading configuration from file
+2022-06-03 11:47:56,886 - ERROR - worker : Failed to insert into MySQL table 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`temp`.`currently`, CONSTRAINT `currently_ibfk_1` FOREIGN KEY (`sensor_id`) REFERENCES `sensor` (`id`))
+2022-06-03 11:47:57,894 - ERROR - worker : Failed to insert into MySQL table 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`temp`.`currently`, CONSTRAINT `currently_ibfk_1` FOREIGN KEY (`sensor_id`) REFERENCES `sensor` (`id`))
+2022-06-03 11:47:58,902 - ERROR - worker : Failed to insert into MySQL table 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`temp`.`currently`, CONSTRAINT `currently_ibfk_1` FOREIGN KEY (`sensor_id`) REFERENCES `sensor` (`id`))
+2022-06-03 11:47:59,916 - ERROR - worker : Failed to insert into MySQL table 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`temp`.`currently`, CONSTRAINT `currently_ibfk_1` FOREIGN KEY (`sensor_id`) REFERENCES `sensor` (`id`))
+2022-06-03 11:48:52,792 - INFO - worker : Loading configuration from file
+2022-06-03 11:48:52,804 - INFO - worker :  inserted successfully in sensor
+2022-06-03 11:48:52,809 - INFO - worker :  inserted successfully in current
+2022-06-03 11:48:53,826 - INFO - worker :  inserted successfully in current
+2022-06-03 11:48:54,850 - INFO - worker :  inserted successfully in current
+2022-06-03 11:48:55,875 - INFO - worker :  inserted successfully in current
+2022-06-03 11:48:56,891 - INFO - worker :  inserted successfully in current
+2022-06-03 11:48:57,905 - INFO - worker :  inserted successfully in current
+2022-06-03 11:48:58,919 - INFO - worker :  inserted successfully in current
+2022-06-03 11:48:59,940 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:00,969 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:01,990 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:03,012 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:04,034 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:05,049 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:06,058 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:07,070 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:08,082 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:09,106 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:10,127 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:11,149 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:12,164 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:13,176 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:14,186 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:15,205 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:16,217 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:17,226 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:18,249 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:19,270 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:20,280 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:21,303 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:22,325 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:23,351 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:24,375 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:25,398 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:26,418 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:27,431 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:28,459 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:29,478 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:30,501 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:31,515 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:32,539 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:33,564 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:34,584 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:35,611 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:36,630 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:37,646 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:38,670 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:39,678 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:40,693 - INFO - worker :  inserted successfully in current
+2022-06-03 11:49:41,701 - INFO - worker :  inserted successfully in current
+2022-06-03 12:09:20,795 - INFO - worker : Loading configuration from file
+2022-06-03 12:09:20,812 - INFO - worker :  inserted successfully in sensor
+2022-06-03 12:09:20,818 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:09:21,836 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:09:22,840 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:09:23,849 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:09:24,860 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:10:41,843 - INFO - worker : Loading configuration from file
+2022-06-03 12:10:41,853 - INFO - worker :  inserted successfully in sensor
+2022-06-03 12:10:41,857 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:10:42,869 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:10:43,879 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:10:44,889 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:10:45,901 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:10:46,911 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:10:47,927 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1
+2022-06-03 12:10:48,935 - ERROR - worker : Failed to insert into MySQL table 1136 (21S01): Column count doesn't match value count at row 1

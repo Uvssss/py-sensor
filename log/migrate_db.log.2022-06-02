@@ -1,0 +1,151 @@
+2022-06-02 11:12:41,954 - INFO - migrations : DB migration service
+2022-06-02 11:12:41,954 - INFO - migrations : Loading configuration from file
+2022-06-02 11:12:41,955 - INFO - migrations : DONE
+2022-06-02 11:12:41,991 - INFO - migrations : Connecting to MySQL DB
+2022-06-02 11:12:41,992 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-02 11:12:42,064 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-02 11:12:42,097 - INFO - migrations : None
+2022-06-02 11:12:42,101 - INFO - migrations : OK
+2022-06-02 11:12:42,104 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-02 11:12:42,144 - INFO - migrations : None
+2022-06-02 11:12:42,149 - INFO - migrations : OK
+2022-06-02 11:12:42,153 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-02 11:12:42,204 - INFO - migrations : None
+2022-06-02 11:12:42,208 - INFO - migrations : OK
+2022-06-02 11:12:42,211 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-02 11:12:42,248 - INFO - migrations : None
+2022-06-02 11:12:42,253 - INFO - migrations : OK
+2022-06-02 11:12:42,256 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-02 11:12:42,302 - INFO - migrations : None
+2022-06-02 11:12:42,310 - INFO - migrations : OK
+2022-06-02 11:12:42,318 - INFO - migrations : Trigger created
+2022-06-02 11:12:42,330 - INFO - migrations : Trigger created
+2022-06-02 11:12:42,339 - INFO - migrations : Trigger created
+2022-06-02 11:12:42,347 - INFO - migrations : Trigger created
+2022-06-02 12:15:43,799 - INFO - migrations : DB migration service
+2022-06-02 12:15:43,799 - INFO - migrations : Loading configuration from file
+2022-06-02 12:15:43,800 - INFO - migrations : DONE
+2022-06-02 12:15:43,843 - INFO - migrations : Connecting to MySQL DB
+2022-06-02 12:15:43,845 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-02 12:15:43,849 - INFO - migrations : Migrations table exists
+2022-06-02 12:15:43,853 - INFO - migrations : No migrations to execute
+2022-06-02 12:15:43,860 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:15:43,864 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:15:43,867 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:15:43,871 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:16:07,919 - INFO - migrations : DB migration service
+2022-06-02 12:16:07,920 - INFO - migrations : Loading configuration from file
+2022-06-02 12:16:07,921 - INFO - migrations : DONE
+2022-06-02 12:16:07,957 - INFO - migrations : Connecting to MySQL DB
+2022-06-02 12:16:07,958 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-02 12:16:07,961 - INFO - migrations : Migrations table exists
+2022-06-02 12:16:07,967 - INFO - migrations : No migrations to execute
+2022-06-02 12:16:07,970 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:16:07,973 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:16:07,976 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:16:07,979 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:16:41,110 - INFO - migrations : DB migration service
+2022-06-02 12:16:41,111 - INFO - migrations : Loading configuration from file
+2022-06-02 12:16:41,112 - INFO - migrations : DONE
+2022-06-02 12:16:41,146 - INFO - migrations : Connecting to MySQL DB
+2022-06-02 12:16:41,147 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-02 12:16:41,191 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-02 12:16:41,218 - INFO - migrations : None
+2022-06-02 12:16:41,223 - INFO - migrations : OK
+2022-06-02 12:16:41,225 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-02 12:16:41,258 - INFO - migrations : None
+2022-06-02 12:16:41,264 - INFO - migrations : OK
+2022-06-02 12:16:41,266 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-02 12:16:41,310 - INFO - migrations : None
+2022-06-02 12:16:41,315 - INFO - migrations : OK
+2022-06-02 12:16:41,318 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-02 12:16:41,351 - INFO - migrations : None
+2022-06-02 12:16:41,356 - INFO - migrations : OK
+2022-06-02 12:16:41,359 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-02 12:16:41,406 - INFO - migrations : None
+2022-06-02 12:16:41,410 - INFO - migrations : OK
+2022-06-02 12:16:41,420 - INFO - migrations : Trigger created
+2022-06-02 12:16:41,428 - INFO - migrations : Trigger created
+2022-06-02 12:16:41,439 - INFO - migrations : Trigger created
+2022-06-02 12:16:41,450 - INFO - migrations : Trigger created
+2022-06-02 12:19:50,529 - INFO - migrations : DB migration service
+2022-06-02 12:19:50,529 - INFO - migrations : Loading configuration from file
+2022-06-02 12:19:50,530 - INFO - migrations : DONE
+2022-06-02 12:19:50,564 - INFO - migrations : Connecting to MySQL DB
+2022-06-02 12:19:50,565 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-02 12:19:50,677 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-02 12:19:50,785 - INFO - migrations : None
+2022-06-02 12:19:50,804 - INFO - migrations : OK
+2022-06-02 12:19:50,810 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-02 12:19:50,945 - INFO - migrations : None
+2022-06-02 12:19:50,993 - INFO - migrations : OK
+2022-06-02 12:19:50,997 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-02 12:19:51,170 - INFO - migrations : None
+2022-06-02 12:19:51,189 - INFO - migrations : OK
+2022-06-02 12:19:51,193 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-02 12:19:51,321 - INFO - migrations : None
+2022-06-02 12:19:51,347 - INFO - migrations : OK
+2022-06-02 12:19:51,350 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-02 12:19:52,198 - INFO - migrations : None
+2022-06-02 12:19:52,250 - INFO - migrations : OK
+2022-06-02 12:19:52,330 - INFO - migrations : Trigger created
+2022-06-02 12:19:52,375 - INFO - migrations : Trigger created
+2022-06-02 12:19:52,403 - INFO - migrations : Trigger created
+2022-06-02 12:19:52,430 - INFO - migrations : Trigger created
+2022-06-02 12:20:06,707 - INFO - migrations : DB migration service
+2022-06-02 12:20:06,707 - INFO - migrations : Loading configuration from file
+2022-06-02 12:20:06,708 - INFO - migrations : DONE
+2022-06-02 12:20:06,743 - INFO - migrations : Connecting to MySQL DB
+2022-06-02 12:20:06,744 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-02 12:20:06,751 - INFO - migrations : Migrations table exists
+2022-06-02 12:20:06,756 - INFO - migrations : No migrations to execute
+2022-06-02 12:20:06,759 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:20:06,762 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:20:06,764 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:20:06,767 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:25:05,507 - INFO - migrations : DB migration service
+2022-06-02 12:25:05,507 - INFO - migrations : Loading configuration from file
+2022-06-02 12:25:05,508 - INFO - migrations : DONE
+2022-06-02 12:25:05,543 - INFO - migrations : Connecting to MySQL DB
+2022-06-02 12:25:05,544 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-02 12:25:05,548 - INFO - migrations : Migrations table exists
+2022-06-02 12:25:05,554 - INFO - migrations : No migrations to execute
+2022-06-02 12:25:05,557 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:25:05,560 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:25:05,563 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:25:05,566 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:27:30,545 - INFO - migrations : DB migration service
+2022-06-02 12:27:30,546 - INFO - migrations : Loading configuration from file
+2022-06-02 12:27:30,547 - INFO - migrations : DONE
+2022-06-02 12:27:30,581 - INFO - migrations : Connecting to MySQL DB
+2022-06-02 12:27:30,583 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-02 12:27:30,586 - INFO - migrations : Migrations table exists
+2022-06-02 12:27:30,601 - INFO - migrations : No migrations to execute
+2022-06-02 12:27:30,610 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:27:30,615 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:27:30,618 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 12:27:30,621 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-02 13:16:14,986 - INFO - migrations : DB migration service
+2022-06-02 13:16:14,987 - INFO - migrations : Loading configuration from file
+2022-06-02 13:16:14,987 - INFO - migrations : DONE
+2022-06-02 13:16:15,027 - INFO - migrations : Connecting to MySQL DB
+2022-06-02 13:16:15,028 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-02 13:16:15,069 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-02 13:16:15,099 - INFO - migrations : None
+2022-06-02 13:16:15,105 - INFO - migrations : OK
+2022-06-02 13:16:15,108 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-02 13:16:15,139 - INFO - migrations : None
+2022-06-02 13:16:15,144 - INFO - migrations : OK
+2022-06-02 13:16:15,147 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-02 13:16:15,206 - INFO - migrations : None
+2022-06-02 13:16:15,211 - INFO - migrations : OK
+2022-06-02 13:16:15,215 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-02 13:16:15,250 - INFO - migrations : None
+2022-06-02 13:16:15,255 - INFO - migrations : OK
+2022-06-02 13:16:15,259 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-02 13:16:15,309 - INFO - migrations : None
+2022-06-02 13:16:15,314 - INFO - migrations : OK
+2022-06-02 13:16:15,323 - INFO - migrations : Trigger created
+2022-06-02 13:16:15,332 - INFO - migrations : Trigger created
+2022-06-02 13:16:15,343 - INFO - migrations : Trigger created
+2022-06-02 13:16:15,355 - INFO - migrations : Trigger created

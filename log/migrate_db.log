@@ -1,0 +1,12 @@
+2022-09-05 13:35:00,925 - INFO - migrations : DB migration service
+2022-09-05 13:35:00,927 - INFO - migrations : Loading configuration from file
+2022-09-05 13:35:00,936 - INFO - migrations : DONE
+2022-09-05 13:35:01,009 - INFO - migrations : Connecting to MySQL DB
+2022-09-05 13:35:01,012 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-09-05 13:35:01,017 - INFO - migrations : Migrations table exists
+2022-09-05 13:35:01,035 - INFO - migrations : No migrations to execute
+2022-09-05 13:35:01,045 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-09-05 13:35:01,049 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-09-05 13:35:01,054 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-09-05 13:35:01,056 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-09-05 13:35:01,059 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists

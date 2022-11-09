@@ -1,0 +1,163 @@
+2022-06-08 09:20:10,769 - INFO - migrations : DB migration service
+2022-06-08 09:20:10,771 - INFO - migrations : Loading configuration from file
+2022-06-08 09:20:10,772 - INFO - migrations : DONE
+2022-06-08 09:20:10,809 - INFO - migrations : Connecting to MySQL DB
+2022-06-08 09:20:10,810 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-08 09:20:10,898 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-08 09:20:10,975 - INFO - migrations : None
+2022-06-08 09:20:10,984 - INFO - migrations : OK
+2022-06-08 09:20:10,992 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-08 09:20:10,993 - ERROR - migrations : create table hourly (
+	`hour` int not null,
+    max_temp float,
+    min_temp float,
+    average_temp float,
+    average_humid int,
+    min_humid int,
+    max_humid int
+    sensor_id int,
+    primary key(`hour`)
+)
+2022-06-08 09:20:10,995 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sensor_id int,
+    primary key(`hour`)
+)' at line 9
+2022-06-08 09:20:10,996 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-08 09:20:10,998 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:11,000 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:11,002 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:11,004 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:11,005 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:11,007 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:11,017 - INFO - migrations : Procedure created
+2022-06-08 09:20:56,212 - INFO - migrations : DB migration service
+2022-06-08 09:20:56,212 - INFO - migrations : Loading configuration from file
+2022-06-08 09:20:56,213 - INFO - migrations : DONE
+2022-06-08 09:20:56,249 - INFO - migrations : Connecting to MySQL DB
+2022-06-08 09:20:56,250 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-08 09:20:56,255 - INFO - migrations : Migrations table exists
+2022-06-08 09:20:56,259 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-08 09:20:56,260 - ERROR - migrations : create table hourly (
+	`hour` int not null,
+    max_temp float,
+    min_temp float,
+    average_temp float,
+    average_humid int,
+    min_humid int,
+    max_humid int
+    sensor_id int,
+    primary key(`hour`)
+)
+2022-06-08 09:20:56,262 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sensor_id int,
+    primary key(`hour`)
+)' at line 9
+2022-06-08 09:20:56,263 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-08 09:20:56,263 - INFO - migrations : No migrations to execute
+2022-06-08 09:20:56,267 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:56,270 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:56,272 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:56,274 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:56,276 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:56,279 - ERROR - migrations : Failed to create trigger 1146 (42S02): Table 'temp.currently' doesn't exist
+2022-06-08 09:20:56,281 - ERROR - migrations : Failed to create Procedure 1304 (42000): PROCEDURE closest_hour already exists
+2022-06-08 09:22:31,504 - INFO - migrations : DB migration service
+2022-06-08 09:22:31,504 - INFO - migrations : Loading configuration from file
+2022-06-08 09:22:31,505 - INFO - migrations : DONE
+2022-06-08 09:22:31,540 - INFO - migrations : Connecting to MySQL DB
+2022-06-08 09:22:31,541 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-08 09:22:31,550 - INFO - migrations : Migrations table exists
+2022-06-08 09:22:31,554 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-08 09:22:31,765 - INFO - migrations : None
+2022-06-08 09:22:31,785 - INFO - migrations : OK
+2022-06-08 09:22:31,788 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-08 09:22:31,790 - ERROR - migrations : create table hourly (
+	`hour` int not null,
+    max_temp float,
+    min_temp float,
+    average_temp float,
+    average_humid int,
+    min_humid int,
+    max_humid int
+    sensor_id int,
+    primary key(`hour`)
+)
+2022-06-08 09:22:31,791 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sensor_id int,
+    primary key(`hour`)
+)' at line 9
+2022-06-08 09:22:31,792 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-08 09:22:31,964 - INFO - migrations : Trigger created
+2022-06-08 09:22:32,081 - INFO - migrations : Trigger created
+2022-06-08 09:22:32,168 - INFO - migrations : Trigger created
+2022-06-08 09:22:32,204 - INFO - migrations : Trigger created
+2022-06-08 09:22:32,208 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-08 09:22:32,248 - INFO - migrations : Trigger created
+2022-06-08 09:22:32,249 - ERROR - migrations : Failed to create Procedure 1304 (42000): PROCEDURE closest_hour already exists
+2022-06-08 09:22:49,297 - INFO - migrations : DB migration service
+2022-06-08 09:22:49,298 - INFO - migrations : Loading configuration from file
+2022-06-08 09:22:49,299 - INFO - migrations : DONE
+2022-06-08 09:22:49,334 - INFO - migrations : Connecting to MySQL DB
+2022-06-08 09:22:49,335 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-08 09:22:49,397 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-08 09:22:49,449 - INFO - migrations : None
+2022-06-08 09:22:49,453 - INFO - migrations : OK
+2022-06-08 09:22:49,455 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-08 09:22:49,508 - INFO - migrations : None
+2022-06-08 09:22:49,517 - INFO - migrations : OK
+2022-06-08 09:22:49,520 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-08 09:22:49,521 - ERROR - migrations : create table hourly (
+	`hour` int not null,
+    max_temp float,
+    min_temp float,
+    average_temp float,
+    average_humid int,
+    min_humid int,
+    max_humid int
+    sensor_id int,
+    primary key(`hour`)
+)
+2022-06-08 09:22:49,523 - ERROR - migrations : Problem executing sql query on DB: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sensor_id int,
+    primary key(`hour`)
+)' at line 9
+2022-06-08 09:22:49,524 - ERROR - migrations : Problem applying migration. Aborting
+2022-06-08 09:22:49,533 - INFO - migrations : Trigger created
+2022-06-08 09:22:49,542 - INFO - migrations : Trigger created
+2022-06-08 09:22:49,554 - INFO - migrations : Trigger created
+2022-06-08 09:22:49,567 - INFO - migrations : Trigger created
+2022-06-08 09:22:49,570 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-08 09:22:49,581 - INFO - migrations : Trigger created
+2022-06-08 09:22:49,588 - INFO - migrations : Procedure created
+2022-06-08 09:25:24,820 - INFO - migrations : DB migration service
+2022-06-08 09:25:24,820 - INFO - migrations : Loading configuration from file
+2022-06-08 09:25:24,821 - INFO - migrations : DONE
+2022-06-08 09:25:31,067 - INFO - migrations : DB migration service
+2022-06-08 09:25:31,067 - INFO - migrations : Loading configuration from file
+2022-06-08 09:25:31,068 - INFO - migrations : DONE
+2022-06-08 09:25:43,155 - INFO - migrations : DB migration service
+2022-06-08 09:25:43,156 - INFO - migrations : Loading configuration from file
+2022-06-08 09:25:43,157 - INFO - migrations : DONE
+2022-06-08 09:25:43,192 - INFO - migrations : Connecting to MySQL DB
+2022-06-08 09:25:43,192 - INFO - migrations : Connected to MySQL database. MySQL Server version on 8.0.27
+2022-06-08 09:25:43,254 - INFO - migrations : Executing: 2020053000-initial-db.sql
+2022-06-08 09:25:43,305 - INFO - migrations : None
+2022-06-08 09:25:43,310 - INFO - migrations : OK
+2022-06-08 09:25:43,313 - INFO - migrations : Executing: 2020053001-initial-db.sql
+2022-06-08 09:25:43,377 - INFO - migrations : None
+2022-06-08 09:25:43,386 - INFO - migrations : OK
+2022-06-08 09:25:43,390 - INFO - migrations : Executing: 2020053010-initial-db.sql
+2022-06-08 09:25:43,444 - INFO - migrations : None
+2022-06-08 09:25:43,449 - INFO - migrations : OK
+2022-06-08 09:25:43,453 - INFO - migrations : Executing: 2020053020-initial-db.sql
+2022-06-08 09:25:43,523 - INFO - migrations : None
+2022-06-08 09:25:43,531 - INFO - migrations : OK
+2022-06-08 09:25:43,535 - INFO - migrations : Executing: 2020053030-initial-db.sql
+2022-06-08 09:25:43,595 - INFO - migrations : None
+2022-06-08 09:25:43,601 - INFO - migrations : OK
+2022-06-08 09:25:43,605 - INFO - migrations : Executing: 2020053040-initial-db.sql
+2022-06-08 09:25:43,667 - INFO - migrations : None
+2022-06-08 09:25:43,672 - INFO - migrations : OK
+2022-06-08 09:25:43,682 - INFO - migrations : Trigger created
+2022-06-08 09:25:43,692 - INFO - migrations : Trigger created
+2022-06-08 09:25:43,707 - INFO - migrations : Trigger created
+2022-06-08 09:25:43,721 - INFO - migrations : Trigger created
+2022-06-08 09:25:43,725 - ERROR - migrations : Failed to create trigger 1359 (HY000): Trigger already exists
+2022-06-08 09:25:43,739 - INFO - migrations : Trigger created
+2022-06-08 09:25:43,745 - INFO - migrations : Procedure created
